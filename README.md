@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
+| [1289-day-of-the-week](https://github.com/YHQZ1/LeetCode/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YHQZ1/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/YHQZ1/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/YHQZ1/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
