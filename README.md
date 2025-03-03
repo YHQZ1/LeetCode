@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/YHQZ1/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/YHQZ1/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/YHQZ1/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/YHQZ1/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/YHQZ1/LeetCode/tree/master/0263-ugly-number) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/YHQZ1/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/YHQZ1/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/YHQZ1/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YHQZ1/LeetCode/tree/master/0342-power-of-four) |
