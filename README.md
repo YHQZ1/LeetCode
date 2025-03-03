@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YHQZ1/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/YHQZ1/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/YHQZ1/LeetCode/tree/master/0135-candy) |
@@ -92,5 +93,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YHQZ1/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
