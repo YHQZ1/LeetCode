@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/YHQZ1/LeetCode/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/YHQZ1/LeetCode/tree/master/0202-happy-number) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/YHQZ1/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/YHQZ1/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/YHQZ1/LeetCode/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/YHQZ1/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/YHQZ1/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/YHQZ1/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/YHQZ1/LeetCode/tree/master/0263-ugly-number) |
@@ -80,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YHQZ1/LeetCode/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/YHQZ1/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
