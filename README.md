@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/YHQZ1/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/YHQZ1/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/YHQZ1/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/YHQZ1/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/YHQZ1/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/1013-fibonacci-number) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/YHQZ1/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/YHQZ1/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/YHQZ1/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/YHQZ1/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Number Theory
 |  |
 | ------- |
