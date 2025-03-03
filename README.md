@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0717-1-bit-and-2-bit-characters](https://github.com/YHQZ1/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/YHQZ1/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/YHQZ1/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/YHQZ1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2350-find-closest-number-to-zero](https://github.com/YHQZ1/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YHQZ1/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3321-type-of-triangle](https://github.com/YHQZ1/LeetCode/tree/master/3321-type-of-triangle) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0258-add-digits](https://github.com/YHQZ1/LeetCode/tree/master/0258-add-digits) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/YHQZ1/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/YHQZ1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3533-snake-in-matrix](https://github.com/YHQZ1/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Greedy
 |  |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/YHQZ1/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YHQZ1/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/YHQZ1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3321-type-of-triangle](https://github.com/YHQZ1/LeetCode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/YHQZ1/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/YHQZ1/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YHQZ1/LeetCode/tree/master/0268-missing-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/YHQZ1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
