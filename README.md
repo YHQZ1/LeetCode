@@ -136,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/YHQZ1/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/YHQZ1/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/YHQZ1/LeetCode/tree/master/0367-valid-perfect-square) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/YHQZ1/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
