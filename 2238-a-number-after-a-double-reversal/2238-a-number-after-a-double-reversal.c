@@ -12,5 +12,5 @@ bool isSameAfterReversals(int num) {
     int a = reverse(num);
     int b = reverse(a);
 
-    return num == b;  // Directly return the comparison result
+    return num == b; 
 }
