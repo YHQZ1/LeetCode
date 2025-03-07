@@ -1,11 +1,10 @@
 int fib(int n){
-    int result;
-    if (n==0)
-    return 0;
-    if (n==1)
-    return 1;
-    else
-    result=fib(n-1)+fib(n-2);
-    return result;
-
+    if(n == 0) return 0;
+    int first = 0, second = 1, third;
+    for(int i = 2; i <= n; i++){
+        third = first + second;
+        first = second;
+        second = third;
+    }
+    return second;
 }
