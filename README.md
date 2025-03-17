@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/YHQZ1/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/YHQZ1/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/YHQZ1/LeetCode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/YHQZ1/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0932-monotonic-array](https://github.com/YHQZ1/LeetCode/tree/master/0932-monotonic-array) |
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/YHQZ1/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/YHQZ1/LeetCode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/YHQZ1/LeetCode/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YHQZ1/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/YHQZ1/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YHQZ1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -251,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YHQZ1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/YHQZ1/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
