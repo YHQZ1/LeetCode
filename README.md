@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/YHQZ1/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/YHQZ1/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/YHQZ1/LeetCode/tree/master/0412-fizz-buzz) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/YHQZ1/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YHQZ1/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/YHQZ1/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/YHQZ1/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/YHQZ1/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/YHQZ1/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/YHQZ1/LeetCode/tree/master/0202-happy-number) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YHQZ1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YHQZ1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/YHQZ1/LeetCode/tree/master/0043-multiply-strings) |
 | [0389-find-the-difference](https://github.com/YHQZ1/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/YHQZ1/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/YHQZ1/LeetCode/tree/master/0742-to-lower-case) |
