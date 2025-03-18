@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YHQZ1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/YHQZ1/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/YHQZ1/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2645-pass-the-pillow](https://github.com/YHQZ1/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3533-snake-in-matrix](https://github.com/YHQZ1/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Greedy
 |  |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2619-categorize-box-according-to-criteria](https://github.com/YHQZ1/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YHQZ1/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/YHQZ1/LeetCode/tree/master/2630-alternating-digit-sum) |
+| [2645-pass-the-pillow](https://github.com/YHQZ1/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/YHQZ1/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/YHQZ1/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/YHQZ1/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
