@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1289-day-of-the-week](https://github.com/YHQZ1/LeetCode/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YHQZ1/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/YHQZ1/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/YHQZ1/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/YHQZ1/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/YHQZ1/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/YHQZ1/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/YHQZ1/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/YHQZ1/LeetCode/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/YHQZ1/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/YHQZ1/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YHQZ1/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/YHQZ1/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3533-snake-in-matrix](https://github.com/YHQZ1/LeetCode/tree/master/3533-snake-in-matrix) |
