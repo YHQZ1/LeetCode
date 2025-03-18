@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0717-1-bit-and-2-bit-characters](https://github.com/YHQZ1/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/YHQZ1/LeetCode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/YHQZ1/LeetCode/tree/master/0932-monotonic-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/YHQZ1/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YHQZ1/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/YHQZ1/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/YHQZ1/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
 | [1289-day-of-the-week](https://github.com/YHQZ1/LeetCode/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YHQZ1/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
