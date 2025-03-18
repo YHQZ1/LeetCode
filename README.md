@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
 | [1289-day-of-the-week](https://github.com/YHQZ1/LeetCode/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YHQZ1/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/YHQZ1/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YHQZ1/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/YHQZ1/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/YHQZ1/LeetCode/tree/master/1635-number-of-good-pairs) |
