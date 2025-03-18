@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/YHQZ1/LeetCode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/YHQZ1/LeetCode/tree/master/0932-monotonic-array) |
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/YHQZ1/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1580-shuffle-the-array](https://github.com/YHQZ1/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/YHQZ1/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
 | [1289-day-of-the-week](https://github.com/YHQZ1/LeetCode/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YHQZ1/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/YHQZ1/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/YHQZ1/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YHQZ1/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/YHQZ1/LeetCode/tree/master/1448-maximum-69-number) |
