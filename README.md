@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/YHQZ1/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/YHQZ1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/YHQZ1/LeetCode/tree/master/3321-type-of-triangle) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/YHQZ1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3533-snake-in-matrix](https://github.com/YHQZ1/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3582-find-indices-of-stable-mountains](https://github.com/YHQZ1/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/YHQZ1/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YHQZ1/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/YHQZ1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YHQZ1/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/YHQZ1/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/YHQZ1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
 | ------- |
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YHQZ1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/YHQZ1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -307,4 +311,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/YHQZ1/LeetCode/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/YHQZ1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
