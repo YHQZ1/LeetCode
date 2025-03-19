@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/YHQZ1/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YHQZ1/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/YHQZ1/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/YHQZ1/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/YHQZ1/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/YHQZ1/LeetCode/tree/master/0682-baseball-game) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/YHQZ1/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/YHQZ1/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/YHQZ1/LeetCode/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/YHQZ1/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/YHQZ1/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
