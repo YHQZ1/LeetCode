@@ -1,11 +1,17 @@
 class Solution {
     public boolean hasTrailingZeros(int[] nums) {
-        int evenCount = 0;
-        for (int num : nums) {
-            if (num % 2 == 0) {
-                evenCount++;
-            }
+        boolean result;
+        int count = 0;
+      for(int i=0; i<nums.length; i++){
+        if(nums[i]%2 == 0){
+            count++;
         }
-        return evenCount >= 2;
+      }
+      if(count>=2){
+        result = true;
+      } else {
+        result = false;
+      }
+      return result;
     }
 }
