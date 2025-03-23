@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/YHQZ1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YHQZ1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/YHQZ1/LeetCode/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/YHQZ1/LeetCode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/YHQZ1/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/YHQZ1/LeetCode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/YHQZ1/LeetCode/tree/master/0459-repeated-substring-pattern) |
