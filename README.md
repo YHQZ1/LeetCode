@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YHQZ1/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YHQZ1/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/YHQZ1/LeetCode/tree/master/0029-divide-two-integers) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/YHQZ1/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/YHQZ1/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/YHQZ1/LeetCode/tree/master/0326-power-of-three) |
@@ -323,4 +325,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/YHQZ1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
