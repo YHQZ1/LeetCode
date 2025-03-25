@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/YHQZ1/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/YHQZ1/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/YHQZ1/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/YHQZ1/LeetCode/tree/master/0135-candy) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YHQZ1/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YHQZ1/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YHQZ1/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/YHQZ1/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/YHQZ1/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/YHQZ1/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YHQZ1/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/YHQZ1/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/YHQZ1/LeetCode/tree/master/1791-richest-customer-wealth) |
