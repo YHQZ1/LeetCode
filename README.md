@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-monotonic-array](https://github.com/YHQZ1/LeetCode/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/YHQZ1/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/YHQZ1/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1044-find-common-characters](https://github.com/YHQZ1/LeetCode/tree/master/1044-find-common-characters) |
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YHQZ1/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/YHQZ1/LeetCode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/YHQZ1/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/YHQZ1/LeetCode/tree/master/0742-to-lower-case) |
+| [1044-find-common-characters](https://github.com/YHQZ1/LeetCode/tree/master/1044-find-common-characters) |
 | [1894-merge-strings-alternately](https://github.com/YHQZ1/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/YHQZ1/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YHQZ1/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/YHQZ1/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YHQZ1/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/YHQZ1/LeetCode/tree/master/0389-find-the-difference) |
+| [1044-find-common-characters](https://github.com/YHQZ1/LeetCode/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/YHQZ1/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/YHQZ1/LeetCode/tree/master/1848-sum-of-unique-elements) |
