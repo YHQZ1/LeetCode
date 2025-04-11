@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-monotonic-array](https://github.com/YHQZ1/LeetCode/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/YHQZ1/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/YHQZ1/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1039-find-the-town-judge](https://github.com/YHQZ1/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/YHQZ1/LeetCode/tree/master/1044-find-common-characters) |
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YHQZ1/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/YHQZ1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YHQZ1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/YHQZ1/LeetCode/tree/master/0389-find-the-difference) |
+| [1039-find-the-town-judge](https://github.com/YHQZ1/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/YHQZ1/LeetCode/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/YHQZ1/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -408,4 +410,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/YHQZ1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YHQZ1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0226-invert-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/YHQZ1/LeetCode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
