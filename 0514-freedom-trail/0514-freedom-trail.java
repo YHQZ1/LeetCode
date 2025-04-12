@@ -1,37 +1,34 @@
+import java.util.*;
+
 class Solution {
     public int findRotateSteps(String ring, String key) {
-        int n = ring.length();
-        Map<Character, List<Integer>> charToIndices = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            charToIndices.computeIfAbsent(ring.charAt(i), k -> new ArrayList<>()).add(i);
+        char[] r = ring.toCharArray();
+        List<Integer>[] positions = new List[26];
+        
+        for (int i = 0; i < r.length; i++) {
+            int c = r[i] - 'a';
+            if (positions[c] == null) positions[c] = new ArrayList<>();
+            positions[c].add(i);
         }
-
-        Map<String, Integer> memo = new HashMap<>();
-        return dfs(ring, key, 0, 0, charToIndices, memo);
+        
+        int[][] dp = new int[key.length()][r.length];
+        return helper(0, 0, positions, key.toCharArray(), r, dp);
     }
-
-    private int dfs(String ring, String key, int ringPos, int keyPos,
-                    Map<Character, List<Integer>> charToIndices,
-                    Map<String, Integer> memo) {
-
-        if (keyPos == key.length()) return 0;
-
-        String memoKey = ringPos + "," + keyPos;
-        if (memo.containsKey(memoKey)) return memo.get(memoKey);
-
-        char targetChar = key.charAt(keyPos);
-        List<Integer> indices = charToIndices.get(targetChar);
-        int n = ring.length();
+    
+    int helper(int index, int pos, List<Integer>[] positions, char[] key, char[] ring, int[][] dp) {
+        if (index == key.length) return 0;
+        if (dp[index][pos] > 0) return dp[index][pos];
+        
+        char target = key[index];
+        List<Integer> possiblePositions = positions[target - 'a'];
         int minSteps = Integer.MAX_VALUE;
-
-        for (int index : indices) {
-            int diff = Math.abs(index - ringPos);
-            int step = Math.min(diff, n - diff);
-            int total = step + 1 + dfs(ring, key, index, keyPos + 1, charToIndices, memo);
-            minSteps = Math.min(minSteps, total);
+        
+        for (int nextPos : possiblePositions) {
+            int steps = Math.min(Math.abs(nextPos - pos), ring.length - Math.abs(nextPos - pos));
+            int totalSteps = steps + helper(index + 1, nextPos, positions, key, ring, dp);
+            minSteps = Math.min(minSteps, totalSteps);
         }
-
-        memo.put(memoKey, minSteps);
-        return minSteps;
+        
+        return dp[index][pos] = minSteps + 1;
     }
 }
