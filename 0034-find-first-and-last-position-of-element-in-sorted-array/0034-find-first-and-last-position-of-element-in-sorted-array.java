@@ -1,28 +1,28 @@
 class Solution {
-    public int findIndex(int[] nums, int target, boolean findFirst){
-        int left = 0, right = nums.length-1, index = -1;
-        while(left <= right){
-            int mid = left + (right-left)/2;
-            if(nums[mid] == target){
-                index = mid;
-                if (findFirst){
-                    right = mid - 1;
+    public int searchIndex(int[] nums, int t, boolean find){
+        int l = 0, r = nums.length-1, i = -1;
+        while(l <= r){
+            int m = l + (r-l)/2;
+            if(nums[m] == t){
+                i = m;
+                if (find){
+                    r = m - 1;
                 } else {
-                    left = mid + 1;
+                    l = m + 1;
                 }
-            } else if (nums[mid] < target){
-                left = mid + 1;
+            } else if (nums[m] < t){
+                l = m + 1;
             } else {
-                right = mid - 1;
+                r = m - 1;
             }
         }
-        return index;
+        return i;
     }
 
     public int[] searchRange(int[] nums, int target) {
-        int first, last;
-        first = findIndex(nums, target, true);
-        last = findIndex(nums, target, false);
-        return new int[]{first, last}; 
+        int fi, li;
+        fi = searchIndex(nums, target, true);
+        li = searchIndex(nums, target, false);
+        return new int[]{fi, li}; 
     }
 }
