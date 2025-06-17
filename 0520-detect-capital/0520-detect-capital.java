@@ -1,13 +1,18 @@
 class Solution {
     public boolean detectCapitalUse(String word) {
-        boolean result = false;
-        if (word.length() > 0 &&
-                (word.equals(word.toUpperCase()) ||
-                        word.equals(word.toLowerCase()) ||
-                        (Character.isUpperCase(word.charAt(0))
-                                && word.substring(1).equals(word.substring(1).toLowerCase())))) {
-            result = true;
+        char[] chars = word.toCharArray();
+        int count = 0;
+
+        for (char c : chars) {
+            if (Character.isUpperCase(c)) {
+                count++;
+            }
         }
-        return result;
+
+        if (count == word.length()) return true;
+        if (count == 0) return true;
+        if (count == 1 && Character.isUpperCase(chars[0])) return true;
+
+        return false;
     }
 }
