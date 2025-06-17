@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/YHQZ1/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/YHQZ1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YHQZ1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/YHQZ1/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/YHQZ1/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/YHQZ1/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/YHQZ1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YHQZ1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/YHQZ1/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/YHQZ1/LeetCode/tree/master/0392-is-subsequence) |
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
 | [1013-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/YHQZ1/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/YHQZ1/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/YHQZ1/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/YHQZ1/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/YHQZ1/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/YHQZ1/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/YHQZ1/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
