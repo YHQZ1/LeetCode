@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/YHQZ1/LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/YHQZ1/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/YHQZ1/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/YHQZ1/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/YHQZ1/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/YHQZ1/LeetCode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/YHQZ1/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YHQZ1/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/YHQZ1/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/YHQZ1/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/YHQZ1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
