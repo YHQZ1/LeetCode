@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/YHQZ1/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/YHQZ1/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/YHQZ1/LeetCode/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/YHQZ1/LeetCode/tree/master/0584-find-customer-referee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/YHQZ1/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Geometry
 |  |
