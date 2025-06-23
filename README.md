@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1806-count-of-matches-in-tournament](https://github.com/YHQZ1/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/YHQZ1/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YHQZ1/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/YHQZ1/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/YHQZ1/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YHQZ1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/YHQZ1/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1944-truncate-sentence](https://github.com/YHQZ1/LeetCode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YHQZ1/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YHQZ1/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/YHQZ1/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/YHQZ1/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3533-snake-in-matrix](https://github.com/YHQZ1/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Bit Manipulation
