@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YHQZ1/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/YHQZ1/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/YHQZ1/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/YHQZ1/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/YHQZ1/LeetCode/tree/master/0055-jump-game) |
@@ -558,4 +559,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/YHQZ1/LeetCode/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/YHQZ1/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
