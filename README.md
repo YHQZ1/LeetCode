@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/YHQZ1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YHQZ1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/YHQZ1/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/YHQZ1/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/YHQZ1/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/YHQZ1/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -601,4 +602,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/YHQZ1/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/YHQZ1/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
