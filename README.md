@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2298-count-integers-with-even-digit-sum](https://github.com/YHQZ1/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/YHQZ1/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3533-snake-in-matrix](https://github.com/YHQZ1/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/YHQZ1/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3371-harshad-number](https://github.com/YHQZ1/LeetCode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YHQZ1/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/YHQZ1/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/YHQZ1/LeetCode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/YHQZ1/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Dynamic Programming
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/YHQZ1/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YHQZ1/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/YHQZ1/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -359,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/YHQZ1/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/YHQZ1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/YHQZ1/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
