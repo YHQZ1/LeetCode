@@ -1,16 +1,17 @@
 class Solution {
     public int getCommon(int[] nums1, int[] nums2) {
-        HashSet<Integer> set = new HashSet<>();
+        int i = 0, j = 0;
 
-        for(int num : nums1){
-            set.add(num);
-        }
-
-        for(int i=0; i<nums2.length; i++){
-            if(set.contains(nums2[i])){
-                return nums2[i];
+        while (i < nums1.length && j < nums2.length) {
+            if (nums1[i] == nums2[j]) {
+                return nums1[i]; 
+            } else if (nums1[i] < nums2[j]) {
+                i++;
+            } else {
+                j++;
             }
         }
+
         return -1;
     }
 }
