@@ -7,13 +7,10 @@ class Solution {
         while(left <= right){
             int distance = right - left;
             int minHeight = Math.min(height[left], height[right]);
-            maxArea = Math.max(maxArea, distance*minHeight);
+            maxArea = Math.max(maxArea, distance * minHeight);
 
-            if(height[left] < height[right]){
-                left++;
-            } else {
-                right--;
-            }
+            if(height[left] < height[right]) left++;
+            else right--;
         }
         return maxArea;
     }
