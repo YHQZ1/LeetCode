@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YHQZ1/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/YHQZ1/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/YHQZ1/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3799-unique-3-digit-even-numbers](https://github.com/YHQZ1/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/YHQZ1/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/YHQZ1/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/YHQZ1/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/YHQZ1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YHQZ1/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/YHQZ1/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3799-unique-3-digit-even-numbers](https://github.com/YHQZ1/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -563,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/YHQZ1/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/YHQZ1/LeetCode/tree/master/1656-count-good-triplets) |
+| [3799-unique-3-digit-even-numbers](https://github.com/YHQZ1/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
