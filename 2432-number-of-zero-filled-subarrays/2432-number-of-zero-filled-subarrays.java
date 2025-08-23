@@ -5,9 +5,7 @@ class Solution {
             if(nums[i] == 0){
                 sub++;
                 count = count + sub;
-            } else {
-                sub = 0;
-            }
+            } else sub = 0;
         }
         return count;
     }
