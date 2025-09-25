@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YHQZ1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/YHQZ1/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/YHQZ1/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YHQZ1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/YHQZ1/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/YHQZ1/LeetCode/tree/master/0136-single-number) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/YHQZ1/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/YHQZ1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/YHQZ1/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/YHQZ1/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YHQZ1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/YHQZ1/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/YHQZ1/LeetCode/tree/master/0392-is-subsequence) |
