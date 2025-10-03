@@ -1,32 +1,24 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int n = nums.length;
-        int start = 0, end = n - 1;
+        int left = 0, right = nums.length - 1;
 
-        while (start < end) {
-            int mid = (start + end) / 2;
-            if (nums[mid] > nums[end]) {
-                start = mid + 1;
-            } else {
-                end = mid;
-            }
+        while(left < right){
+            int mid = (left+right)/2;
+            if(nums[mid] > nums[right]) left = mid+1;
+            else right = mid;
         }
 
-        int rot = start;
-        start = 0;
-        end = n - 1;
+        int pivot = left;
+        left = 0;
+        right = nums.length - 1;
 
-        while (start <= end) {
-            int mid = (start + end) / 2;
-            int realMid = (mid + rot) % n;
-            if (nums[realMid] == target) return realMid;
-            if (nums[realMid] < target) {
-                start = mid + 1;
-            } else {
-                end = mid - 1;
-            }
+        while(left <= right){
+            int mid = left + (right-left)/2;
+            int realMid = (mid + pivot) % nums.length;
+            if(nums[realMid] == target) return realMid;
+            else if(nums[realMid] > target) right = mid - 1;
+            else left = mid + 1;
         }
-
         return -1;
     }
 }
