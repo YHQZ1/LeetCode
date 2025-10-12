@@ -702,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/YHQZ1/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/YHQZ1/LeetCode/tree/master/0052-n-queens-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
