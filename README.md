@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
 | [1293-three-consecutive-odds](https://github.com/YHQZ1/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/YHQZ1/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/YHQZ1/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YHQZ1/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YHQZ1/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/YHQZ1/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/YHQZ1/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YHQZ1/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/YHQZ1/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0742-to-lower-case](https://github.com/YHQZ1/LeetCode/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/YHQZ1/LeetCode/tree/master/1044-find-common-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/YHQZ1/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/YHQZ1/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1542-consecutive-characters](https://github.com/YHQZ1/LeetCode/tree/master/1542-consecutive-characters) |
 | [1894-merge-strings-alternately](https://github.com/YHQZ1/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/YHQZ1/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -452,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1039-find-the-town-judge](https://github.com/YHQZ1/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/YHQZ1/LeetCode/tree/master/1044-find-common-characters) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/YHQZ1/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YHQZ1/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/YHQZ1/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
