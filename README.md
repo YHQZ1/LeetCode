@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/YHQZ1/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/YHQZ1/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/YHQZ1/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/YHQZ1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/YHQZ1/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/YHQZ1/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/YHQZ1/LeetCode/tree/master/0053-maximum-subarray) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YHQZ1/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/YHQZ1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YHQZ1/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/YHQZ1/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/YHQZ1/LeetCode/tree/master/0455-assign-cookies) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YHQZ1/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/YHQZ1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/YHQZ1/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YHQZ1/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/YHQZ1/LeetCode/tree/master/0062-unique-paths) |
