@@ -677,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/YHQZ1/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
+| [0813-all-paths-from-source-to-target](https://github.com/YHQZ1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -700,9 +701,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/YHQZ1/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
+| [0813-all-paths-from-source-to-target](https://github.com/YHQZ1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/YHQZ1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/YHQZ1/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Trie
 |  |
@@ -727,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/YHQZ1/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/YHQZ1/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/YHQZ1/LeetCode/tree/master/0052-n-queens-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/YHQZ1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Monotonic Stack
 |  |
 | ------- |
