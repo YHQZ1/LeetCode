@@ -6,18 +6,21 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        PriorityQueue<Map.Entry<Integer, Integer>> pq = new PriorityQueue<>((a, b) -> b.getValue() - a.getValue());
+        PriorityQueue<Map.Entry<Integer, Integer>> pq =
+            new PriorityQueue<>((a, b) -> a.getValue() - b.getValue());
 
-        pq.addAll(map.entrySet());
-
-        ArrayList<Integer> list = new ArrayList<>();
-
-        while (k > 0 && !pq.isEmpty()) {
-            list.add(pq.poll().getKey());
-            k--;
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            pq.offer(entry);
+            if (pq.size() > k) pq.poll();
         }
 
-        int[] arr = list.stream().mapToInt(i -> i).toArray();
-        return arr;
+        int[] result = new int[k];
+        int i = 0;
+
+        while (!pq.isEmpty()) {
+            result[i++] = pq.poll().getKey();
+        }
+
+        return result;
     }
 }
