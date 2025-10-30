@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/YHQZ1/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YHQZ1/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/YHQZ1/LeetCode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/YHQZ1/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/YHQZ1/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/YHQZ1/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/YHQZ1/LeetCode/tree/master/0258-add-digits) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/YHQZ1/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/YHQZ1/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/YHQZ1/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/YHQZ1/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/YHQZ1/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/YHQZ1/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/YHQZ1/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/YHQZ1/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/YHQZ1/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/YHQZ1/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/YHQZ1/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/YHQZ1/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/YHQZ1/LeetCode/tree/master/0344-reverse-string) |
@@ -641,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/YHQZ1/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YHQZ1/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/YHQZ1/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/YHQZ1/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/YHQZ1/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/YHQZ1/LeetCode/tree/master/0682-baseball-game) |
 ## Enumeration
