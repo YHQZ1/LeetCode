@@ -13,11 +13,11 @@ class Solution {
             if (Character.isDigit(ch)) {
                 curr = curr * 10 + (ch - '0');
             } else if (ch == '+') {
-                result += curr * sign;
+                result = result + curr * sign;
                 curr = 0;
                 sign = 1;
             } else if (ch == '-') {
-                result += curr * sign;
+                result = result + curr * sign;
                 curr = 0;
                 sign = -1;
             } else if (ch == '(') {
@@ -26,13 +26,12 @@ class Solution {
                 result = 0;
                 sign = 1;
             } else if (ch == ')') {
-                result += curr * sign;
+                result = result + curr * sign;
                 curr = 0;
-                result *= stack.pop();
-                result += stack.pop();
+                result = result * stack.pop();
+                result = result + stack.pop();
             }
         }
-
         return result + curr * sign;
     }
 }
