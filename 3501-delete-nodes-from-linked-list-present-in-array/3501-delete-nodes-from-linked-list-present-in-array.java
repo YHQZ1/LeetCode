@@ -10,22 +10,22 @@
  */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        HashSet<Integer> removeSet = new HashSet<>();
+        HashSet<Integer> set = new HashSet<>();
         for (int num : nums) {
-            removeSet.add(num);
+            set.add(num);
         }
 
-        ListNode dummy = new ListNode(0, head);
-        ListNode curr = dummy;
+        ListNode temp = new ListNode(0, head);
+        ListNode curr = temp;
 
         while (curr.next != null) {
-            if (removeSet.contains(curr.next.val)) {
+            if (set.contains(curr.next.val)) {
                 curr.next = curr.next.next;
             } else {
                 curr = curr.next;
             }
         }
 
-        return dummy.next;
+        return temp.next;
     }
 }
