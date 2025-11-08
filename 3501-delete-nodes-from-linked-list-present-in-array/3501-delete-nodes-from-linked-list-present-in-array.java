@@ -8,6 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ 
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
         HashSet<Integer> set = new HashSet<>();
@@ -25,7 +26,6 @@ class Solution {
                 curr = curr.next;
             }
         }
-
         return temp.next;
     }
 }
