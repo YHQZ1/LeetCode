@@ -1,35 +1,23 @@
 class Solution {
-    public void getPerms(char[] chars, int idx, List<String> result) {
-        if (idx == chars.length) {
-            result.add(new String(chars));
-            return;
-        }
-
-        for (int i = idx; i < chars.length; i++) {
-            swap(chars, i, idx);
-            getPerms(chars, idx + 1, result);
-            swap(chars, i, idx);
-        }
-    }
-
-    private void swap(char[] chars, int i, int j) {
-        char tmp = chars[i];
-        chars[i] = chars[j];
-        chars[j] = tmp;
-    }
-
     public String getPermutation(int n, int k) {
-        List<String> result = new ArrayList<>();
+        List<Integer> numbers = new ArrayList<>();
+        for (int i = 1; i <= n; i++) numbers.add(i);
+
+        int[] fact = new int[n];
+        fact[0] = 1;
+        for (int i = 1; i < n; i++)
+            fact[i] = fact[i - 1] * i;
+
+        k--;
         StringBuilder sb = new StringBuilder();
 
-        for (int i = 1; i <= n; i++)
-            sb.append(i);
+        for (int i = n - 1; i >= 0; i--) {
+            int idx = k / fact[i];
+            sb.append(numbers.get(idx));
+            numbers.remove(idx);
+            k %= fact[i];
+        }
 
-        char[] chars = sb.toString().toCharArray();
-        getPerms(chars, 0, result);
-
-        Collections.sort(result);
-        return result.get(k - 1);
+        return sb.toString();
     }
-
 }
