@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/YHQZ1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/YHQZ1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/YHQZ1/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/YHQZ1/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/YHQZ1/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/YHQZ1/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/YHQZ1/LeetCode/tree/master/0053-maximum-subarray) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/YHQZ1/LeetCode/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/YHQZ1/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/YHQZ1/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YHQZ1/LeetCode/tree/master/0169-majority-element) |
@@ -785,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/YHQZ1/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/YHQZ1/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/YHQZ1/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/YHQZ1/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/YHQZ1/LeetCode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/YHQZ1/LeetCode/tree/master/0079-word-search) |
