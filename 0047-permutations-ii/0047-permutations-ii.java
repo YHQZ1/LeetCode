@@ -1,32 +1,34 @@
 class Solution {
-    public void getPerms(int[] nums, int idx, List<List<Integer>> result) {
-        if (idx == nums.length) {
-            List<Integer> perm = new ArrayList<>();
-            for (int n : nums)
-                perm.add(n);
-            result.add(perm);
-            return;
-        }
-
-        for (int i = idx; i < nums.length; i++) {
-            swap(nums, i, idx);
-            getPerms(nums, idx + 1, result);
-            swap(nums, i, idx);
-        }
-    }
-
-    private void swap(int[] nums, int i, int j) {
-        int tmp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = tmp;
-    }
 
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
-        getPerms(nums, 0, result);
+        Arrays.sort(nums);
+        boolean[] visited = new boolean[nums.length];
+        backtrack(nums, visited, new ArrayList<>(), result);
+        return result;
+    }
 
-        Set<List<Integer>> unique = new HashSet<>(result);
-        List<List<Integer>> finalRes = new ArrayList<>(unique);
-        return finalRes;
+    private void backtrack(int[] nums, boolean[] visited, 
+                           List<Integer> curr, List<List<Integer>> result) {
+        if (curr.size() == nums.length) {
+            result.add(new ArrayList<>(curr));
+            return;
+        }
+
+        for (int i = 0; i < nums.length; i++) {
+
+            if (visited[i]) continue;
+
+            if (i > 0 && nums[i] == nums[i - 1] && !visited[i - 1])
+                continue;
+
+            visited[i] = true;
+            curr.add(nums[i]);
+
+            backtrack(nums, visited, curr, result);
+
+            visited[i] = false;
+            curr.remove(curr.size() - 1);
+        }
     }
 }
