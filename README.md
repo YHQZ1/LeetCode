@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2876-number-of-employees-who-met-the-target](https://github.com/YHQZ1/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YHQZ1/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/YHQZ1/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/YHQZ1/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/YHQZ1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/YHQZ1/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2752-sum-multiples](https://github.com/YHQZ1/LeetCode/tree/master/2752-sum-multiples) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/YHQZ1/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/YHQZ1/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/YHQZ1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/YHQZ1/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/YHQZ1/LeetCode/tree/master/3371-harshad-number) |
