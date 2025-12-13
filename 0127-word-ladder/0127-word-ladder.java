@@ -4,11 +4,12 @@ class Solution {
 
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
 
-        Set<String> wordSet = new HashSet<>(wordList);
-        if (!wordSet.contains(endWord))
+        Set<String> set = new HashSet<>(wordList);
+        if (!set.contains(endWord)) {
             return 0;
+        }
 
-        Queue<String> queue = new LinkedList<>();
+        Queue<String> queue = new ArrayDeque<>();
         queue.offer(beginWord);
 
         Set<String> visited = new HashSet<>();
@@ -20,31 +21,32 @@ class Solution {
             int size = queue.size();
 
             for (int i = 0; i < size; i++) {
-                String word = queue.poll();
+                String curr = queue.poll();
 
-                if (word.equals(endWord)) {
+                if (curr.equals(endWord)) {
                     return level;
                 }
 
-                char[] chars = word.toCharArray();
+                char[] word = curr.toCharArray();
 
-                for (int pos = 0; pos < chars.length; pos++) {
-                    char original = chars[pos];
+                for (int c = 0; c < word.length; c++) {
+                    char originalChar = word[c];
 
-                    for (char c = 'a'; c <= 'z'; c++) {
-                        if (c == original)
+                    for (char ch = 'a'; ch <= 'z'; ch++) {
+                        if (ch == originalChar) {
                             continue;
+                        }
 
-                        chars[pos] = c;
-                        String nextWord = new String(chars);
+                        word[c] = ch;
+                        String next = new String(word);
 
-                        if (wordSet.contains(nextWord) && !visited.contains(nextWord)) {
-                            visited.add(nextWord);
-                            queue.offer(nextWord);
+                        if (set.contains(next) && !visited.contains(next)) {
+                            visited.add(next);
+                            queue.offer(next);
                         }
                     }
 
-                    chars[pos] = original;
+                    word[c] = originalChar;
                 }
             }
 
