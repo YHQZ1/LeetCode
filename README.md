@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YHQZ1/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/YHQZ1/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/YHQZ1/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2092-find-all-people-with-secret](https://github.com/YHQZ1/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/YHQZ1/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YHQZ1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/YHQZ1/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -804,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
 | [0801-is-graph-bipartite](https://github.com/YHQZ1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/YHQZ1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [2092-find-all-people-with-secret](https://github.com/YHQZ1/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -833,12 +835,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
 | [0801-is-graph-bipartite](https://github.com/YHQZ1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/YHQZ1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [2092-find-all-people-with-secret](https://github.com/YHQZ1/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/YHQZ1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/YHQZ1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/YHQZ1/LeetCode/tree/master/1039-find-the-town-judge) |
+| [2092-find-all-people-with-secret](https://github.com/YHQZ1/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Trie
 |  |
 | ------- |
@@ -931,6 +935,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/YHQZ1/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0801-is-graph-bipartite](https://github.com/YHQZ1/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [2092-find-all-people-with-secret](https://github.com/YHQZ1/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Randomized
 |  |
 | ------- |
