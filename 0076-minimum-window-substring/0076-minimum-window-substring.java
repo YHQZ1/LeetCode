@@ -1,45 +1,47 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if (t.length() > s.length()) return "";
-
-        Map<Character, Integer> need = new HashMap<>();
+        if (s.length() < t.length())
+            return "";
+        HashMap<Character, Integer> map = new HashMap<>();
         for (char c : t.toCharArray()) {
-            need.put(c, need.getOrDefault(c, 0) + 1);
+            map.put(c, map.getOrDefault(c, 0) + 1);
         }
 
-        int required = need.size();
+        int requirement = map.size();
         int left = 0, right = 0;
-        int minLen = Integer.MAX_VALUE;
+        int minLength = Integer.MAX_VALUE;
         int start = 0;
 
         while (right < s.length()) {
-            char c = s.charAt(right);
+            char curr = s.charAt(right);
 
-            if (need.containsKey(c)) {
-                need.put(c, need.get(c) - 1);
-                if (need.get(c) == 0) {
-                    required--;
+            if (map.containsKey(curr)) {
+                map.put(curr, map.get(curr) - 1);
+                if (map.get(curr) == 0) {
+                    requirement--;
                 }
             }
+
             right++;
 
-            while (required == 0) {
-                if (right - left < minLen) {
-                    minLen = right - left;
+            while (requirement == 0) {
+                if (minLength > right - left) {
+                    minLength = right - left;
                     start = left;
                 }
 
-                char leftChar = s.charAt(left);
-                if (need.containsKey(leftChar)) {
-                    need.put(leftChar, need.get(leftChar) + 1);
-                    if (need.get(leftChar) == 1) {
-                        required++;
+                char shrink = s.charAt(left);
+
+                if (map.containsKey(shrink)) {
+                    map.put(shrink, map.get(shrink) + 1);
+                    if (map.get(shrink) == 1) {
+                        requirement++;
                     }
                 }
+
                 left++;
             }
         }
-
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(start, start + minLen);
+        return minLength == Integer.MAX_VALUE ? "" : s.substring(start, start + minLength);
     }
 }
