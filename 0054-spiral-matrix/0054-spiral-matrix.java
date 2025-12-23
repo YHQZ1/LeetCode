@@ -31,6 +31,7 @@ class Solution {
                 left++;
             }
         }
-      return result;
+
+        return result;
     }
 }
