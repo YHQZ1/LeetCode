@@ -467,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/YHQZ1/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/YHQZ1/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/YHQZ1/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/YHQZ1/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/YHQZ1/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/YHQZ1/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/YHQZ1/LeetCode/tree/master/0389-find-the-difference) |
@@ -561,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/YHQZ1/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/YHQZ1/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/YHQZ1/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/YHQZ1/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/YHQZ1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YHQZ1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YHQZ1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
