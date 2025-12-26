@@ -1,39 +1,26 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
+        if (s.length() != t.length()) return false;
 
-        if (s.length() != t.length())
-            return false;
+        HashMap<Character, Character> mapST = new HashMap<>();
+        HashMap<Character, Character> mapTS = new HashMap<>();
 
-        HashMap<Character, Character> map1 = new HashMap<>();
-        HashMap<Character, Character> map2 = new HashMap<>();
+        for(int i=0; i<s.length(); i++){
+            char c1 = s.charAt(i);
+            char c2 = t.charAt(i);
 
-        for (int i = 0; i < s.length(); i++) {
-            char key = s.charAt(i);
-            char value = t.charAt(i);
+            if(mapST.containsKey(c1)){
+                if(mapST.get(c1) != c2) return false;
+            } else {
+                mapST.put(c1, c2);
+            }
 
-            map1.put(key, value);
+            if(mapTS.containsKey(c2)){
+                if(mapTS.get(c2) != c1) return false;
+            } else {
+                mapTS.put(c2, c1);
+            }
         }
-
-        for (int i = 0; i < t.length(); i++) {
-            char key = t.charAt(i);
-            char value = s.charAt(i);
-
-            map2.put(key, value);
-        }
-
-        StringBuilder sb1 = new StringBuilder();
-        StringBuilder sb2 = new StringBuilder();
-
-        for (int i = 0; i < s.length(); i++) {
-            char curr = map1.get(s.charAt(i));
-            sb1.append(curr);
-        }
-
-        for (int i = 0; i < t.length(); i++) {
-            char curr = map2.get(t.charAt(i));
-            sb2.append(curr);
-        }
-
-        return (sb1.toString().equals(t) && sb2.toString().equals(s));
+        return true;
     }
 }
