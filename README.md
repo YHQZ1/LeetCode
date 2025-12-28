@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/YHQZ1/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/YHQZ1/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/YHQZ1/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/YHQZ1/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/YHQZ1/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/YHQZ1/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0054-spiral-matrix) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/YHQZ1/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/YHQZ1/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/YHQZ1/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/YHQZ1/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YHQZ1/LeetCode/tree/master/0169-majority-element) |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/YHQZ1/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/YHQZ1/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/YHQZ1/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/YHQZ1/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/YHQZ1/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/YHQZ1/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -547,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/YHQZ1/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/YHQZ1/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/YHQZ1/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/YHQZ1/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/YHQZ1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/YHQZ1/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/YHQZ1/LeetCode/tree/master/0127-word-ladder) |
