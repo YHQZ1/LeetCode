@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/YHQZ1/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/YHQZ1/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/YHQZ1/LeetCode/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0932-monotonic-array](https://github.com/YHQZ1/LeetCode/tree/master/0932-monotonic-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/YHQZ1/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/YHQZ1/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0840-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/YHQZ1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -586,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/YHQZ1/LeetCode/tree/master/0480-sliding-window-median) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/YHQZ1/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0840-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0966-binary-subarrays-with-sum](https://github.com/YHQZ1/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/YHQZ1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -687,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/YHQZ1/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/YHQZ1/LeetCode/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/YHQZ1/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/YHQZ1/LeetCode/tree/master/1791-richest-customer-wealth) |
