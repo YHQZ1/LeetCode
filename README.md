@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1944-truncate-sentence](https://github.com/YHQZ1/LeetCode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/YHQZ1/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1972-rotating-the-box](https://github.com/YHQZ1/LeetCode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/YHQZ1/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/YHQZ1/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YHQZ1/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/YHQZ1/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1262-greatest-sum-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/YHQZ1/LeetCode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/YHQZ1/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/YHQZ1/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -703,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1677-matrix-diagonal-sum](https://github.com/YHQZ1/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/YHQZ1/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/YHQZ1/LeetCode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/YHQZ1/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/YHQZ1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
