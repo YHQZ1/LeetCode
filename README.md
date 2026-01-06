@@ -832,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/YHQZ1/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -851,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0801-is-graph-bipartite](https://github.com/YHQZ1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/YHQZ1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/YHQZ1/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
@@ -869,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/YHQZ1/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -883,6 +886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0801-is-graph-bipartite](https://github.com/YHQZ1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/YHQZ1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/YHQZ1/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
