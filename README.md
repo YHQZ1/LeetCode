@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/YHQZ1/LeetCode/tree/master/1044-find-common-characters) |
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/YHQZ1/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/YHQZ1/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/YHQZ1/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/YHQZ1/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/YHQZ1/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/YHQZ1/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
+| [1266-minimum-time-visiting-all-points](https://github.com/YHQZ1/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1289-day-of-the-week](https://github.com/YHQZ1/LeetCode/tree/master/1289-day-of-the-week) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/YHQZ1/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1390-four-divisors](https://github.com/YHQZ1/LeetCode/tree/master/1390-four-divisors) |
@@ -697,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/YHQZ1/LeetCode/tree/master/1115-valid-boomerang) |
+| [1266-minimum-time-visiting-all-points](https://github.com/YHQZ1/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/YHQZ1/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/YHQZ1/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Matrix
