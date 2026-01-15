@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/YHQZ1/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/YHQZ1/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/YHQZ1/LeetCode/tree/master/0763-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/YHQZ1/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YHQZ1/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/YHQZ1/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/YHQZ1/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/YHQZ1/LeetCode/tree/master/0763-partition-labels) |
 | [1018-largest-perimeter-triangle](https://github.com/YHQZ1/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/YHQZ1/LeetCode/tree/master/1448-maximum-69-number) |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/YHQZ1/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YHQZ1/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/YHQZ1/LeetCode/tree/master/0742-to-lower-case) |
+| [0763-partition-labels](https://github.com/YHQZ1/LeetCode/tree/master/0763-partition-labels) |
 | [1044-find-common-characters](https://github.com/YHQZ1/LeetCode/tree/master/1044-find-common-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/YHQZ1/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/YHQZ1/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -619,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/YHQZ1/LeetCode/tree/master/0480-sliding-window-median) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/YHQZ1/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/YHQZ1/LeetCode/tree/master/0763-partition-labels) |
 | [0840-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/YHQZ1/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0870-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0870-magic-squares-in-grid) |
