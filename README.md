@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2876-number-of-employees-who-met-the-target](https://github.com/YHQZ1/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YHQZ1/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/YHQZ1/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/YHQZ1/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/YHQZ1/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/YHQZ1/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/YHQZ1/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/YHQZ1/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/YHQZ1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/YHQZ1/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/YHQZ1/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -828,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/YHQZ1/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/YHQZ1/LeetCode/tree/master/1656-count-good-triplets) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/YHQZ1/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3799-unique-3-digit-even-numbers](https://github.com/YHQZ1/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Queue
 |  |
