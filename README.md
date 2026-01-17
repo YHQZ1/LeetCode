@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YHQZ1/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/YHQZ1/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/YHQZ1/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/YHQZ1/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/YHQZ1/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2649-count-total-number-of-colored-cells](https://github.com/YHQZ1/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/YHQZ1/LeetCode/tree/master/2752-sum-multiples) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/YHQZ1/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/YHQZ1/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/YHQZ1/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/YHQZ1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -722,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1266-minimum-time-visiting-all-points](https://github.com/YHQZ1/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/YHQZ1/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/YHQZ1/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/YHQZ1/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Matrix
 |  |
 | ------- |
