@@ -10,31 +10,30 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        ListNode dummy = new ListNode(0);
-        ListNode partitioned = new ListNode(0);
-        dummy.next = partitioned;
-        ListNode temp = head;
+        ListNode lesser = new ListNode(0);
+        ListNode greater = new ListNode(0);
 
-        while (temp != null) {
-            if (temp.val < x) {
-                partitioned.next = new ListNode(temp.val);
-                partitioned = partitioned.next;
+        ListNode small = lesser;
+        ListNode big = greater;
+
+        ListNode curr = head;
+
+        while(curr != null){
+            ListNode next = curr.next;
+            curr.next = null;
+
+            if(curr.val < x){
+                small.next = curr;
+                small = small.next;
+            } else {
+                big.next = curr;
+                big = big.next;
             }
 
-            temp = temp.next;
+            curr = next;
         }
 
-        temp = head;
-
-        while (temp != null) {
-            if (temp.val >= x) {
-                partitioned.next = new ListNode(temp.val);
-                partitioned = partitioned.next;
-            }
-
-            temp = temp.next;
-        }
-
-        return dummy.next.next;
+        small.next = greater.next;
+        return lesser.next;
     }
 }
