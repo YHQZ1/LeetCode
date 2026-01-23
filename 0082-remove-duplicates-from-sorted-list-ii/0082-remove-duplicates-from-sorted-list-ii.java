@@ -16,20 +16,19 @@ class Solution {
         ListNode prev = dummy;
         ListNode curr = head;
 
-        while (curr != null) {
+        while(curr != null){
             boolean isDuplicate = false;
 
-            while (curr.next != null && curr.val == curr.next.val) {
+            while(curr.next != null && curr.val == curr.next.val){
                 curr = curr.next;
                 isDuplicate = true;
             }
 
-            if (isDuplicate) {
+            if(isDuplicate){
                 prev.next = curr.next;
             } else {
                 prev = prev.next;
             }
-
             curr = curr.next;
         }
         return dummy.next;
