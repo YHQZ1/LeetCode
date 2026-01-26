@@ -18,7 +18,7 @@ class Solution {
 
     public int search(int[] arr, int target, int left, int right) {
         for (int i = left; i <= right; i++) {
-            if (target == arr[i])
+            if (arr[i] == target)
                 return i;
         }
         return -1;
@@ -27,6 +27,7 @@ class Solution {
     public TreeNode helper(int[] postorder, int[] inorder, int left, int right) {
         if (left > right)
             return null;
+
         TreeNode root = new TreeNode(postorder[postIdx]);
 
         int inIdx = search(inorder, postorder[postIdx], left, right);
@@ -39,7 +40,7 @@ class Solution {
     }
 
     public TreeNode buildTree(int[] inorder, int[] postorder) {
-        postIdx = postorder.length - 1;
+        postIdx = inorder.length - 1;
         return helper(postorder, inorder, 0, inorder.length - 1);
     }
 }
