@@ -40,6 +40,6 @@ class Solution {
     }
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return helper(preorder, inorder, 0, inorder.length-1);
+        return helper(preorder, inorder, 0, inorder.length - 1);
     }
 }
