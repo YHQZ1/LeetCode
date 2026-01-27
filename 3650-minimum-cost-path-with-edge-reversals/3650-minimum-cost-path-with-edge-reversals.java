@@ -14,7 +14,6 @@ class Solution {
             g[y].add(new int[] { x, 2 * w });
         }
 
-        // Dijkstra
         int[] d = new int[n];
         boolean[] visited = new boolean[n];
         Arrays.fill(d, Integer.MAX_VALUE);
@@ -22,7 +21,7 @@ class Solution {
 
         PriorityQueue<int[]> pq = new PriorityQueue<>(
                 Comparator.comparingInt(a -> a[0]));
-        pq.offer(new int[] { 0, 0 }); // [Distance, Node]
+        pq.offer(new int[] { 0, 0 });
 
         while (!pq.isEmpty()) {
             int[] current = pq.poll();
