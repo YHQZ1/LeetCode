@@ -920,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YHQZ1/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YHQZ1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YHQZ1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/YHQZ1/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YHQZ1/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YHQZ1/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YHQZ1/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -944,6 +945,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/YHQZ1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YHQZ1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/YHQZ1/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YHQZ1/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YHQZ1/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YHQZ1/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -973,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YHQZ1/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YHQZ1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YHQZ1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/YHQZ1/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YHQZ1/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YHQZ1/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YHQZ1/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -994,6 +997,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/YHQZ1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YHQZ1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/YHQZ1/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YHQZ1/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YHQZ1/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/YHQZ1/LeetCode/tree/master/0127-word-ladder) |
