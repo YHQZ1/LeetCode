@@ -1,95 +1,60 @@
-class Trie {
-
-    Trie[] child = new Trie[26];
-    int id = -1;
-}
-
 class Solution {
-
-    private static final int INF = Integer.MAX_VALUE / 2;
-
-    private int add(Trie node, String word, int[] index) {
-        for (char ch : word.toCharArray()) {
-            int i = ch - 'a';
-            if (node.child[i] == null) {
-                node.child[i] = new Trie();
-            }
-            node = node.child[i];
-        }
-        if (node.id == -1) {
-            node.id = ++index[0];
-        }
-        return node.id;
-    }
-
-    private void update(long[] x, long y) {
-        if (x[0] == -1 || y < x[0]) {
-            x[0] = y;
-        }
-    }
-
-    public long minimumCost(
-        String source,
-        String target,
-        String[] original,
-        String[] changed,
-        int[] cost
-    ) {
-        int n = source.length();
-        int m = original.length;
-        Trie root = new Trie();
-
-        int[] p = { -1 };
-        int[][] G = new int[m * 2][m * 2];
-
-        for (int i = 0; i < m * 2; i++) {
-            Arrays.fill(G[i], INF);
-            G[i][i] = 0;
-        }
-
-        for (int i = 0; i < m; i++) {
-            int x = add(root, original[i], p);
-            int y = add(root, changed[i], p);
-            G[x][y] = Math.min(G[x][y], cost[i]);
-        }
-
-        int size = p[0] + 1;
-        for (int k = 0; k < size; k++) {
-            for (int i = 0; i < size; i++) {
-                for (int j = 0; j < size; j++) {
-                    G[i][j] = Math.min(G[i][j], G[i][k] + G[k][j]);
-                }
+    public long minimumCost(String source, String target, String[] original, String[] changed, int[] cost) {
+        HashMap<String, Integer> index = new HashMap<>();
+        for (String o : original) {
+            if (!index.containsKey(o)) {
+                index.put(o, index.size());
             }
         }
-
-        long[] f = new long[n];
-        Arrays.fill(f, -1);
-        for (int j = 0; j < n; j++) {
-            if (j > 0 && f[j - 1] == -1) {
-                continue;
+        for (String c : changed) {
+            if (!index.containsKey(c)) {
+                index.put(c, index.size());
             }
-            long base = (j == 0 ? 0 : f[j - 1]);
-            if (source.charAt(j) == target.charAt(j)) {
-                f[j] = f[j] == -1 ? base : Math.min(f[j], base);
-            }
-
-            Trie u = root;
-            Trie v = root;
-            for (int i = j; i < n; i++) {
-                u = u.child[source.charAt(i) - 'a'];
-                v = v.child[target.charAt(i) - 'a'];
-                if (u == null || v == null) {
-                    break;
-                }
-                if (u.id != -1 && v.id != -1 && G[u.id][v.id] != INF) {
-                    long newVal = base + G[u.id][v.id];
-                    if (f[i] == -1 || newVal < f[i]) {
-                        f[i] = newVal;
+        }
+        long[][] dis = new long[index.size()][index.size()];
+        for (int i = 0; i < dis.length; i++) {
+            Arrays.fill(dis[i], Long.MAX_VALUE);
+            dis[i][i] = 0;
+        }
+        for (int i = 0; i < cost.length; i++) {
+            dis[index.get(original[i])][index.get(changed[i])] = Math
+                    .min(dis[index.get(original[i])][index.get(changed[i])], (long) cost[i]);
+        }
+        for (int k = 0; k < dis.length; k++) {
+            for (int i = 0; i < dis.length; i++)
+                if (dis[i][k] < Long.MAX_VALUE) {
+                    for (int j = 0; j < dis.length; j++) {
+                        if (dis[k][j] < Long.MAX_VALUE) {
+                            dis[i][j] = Math.min(dis[i][j], dis[i][k] + dis[k][j]);
+                        }
                     }
                 }
+        }
+        HashSet<Integer> set = new HashSet<>();
+        for (String o : original) {
+            set.add(o.length());
+        }
+        long[] dp = new long[target.length() + 1];
+        Arrays.fill(dp, Long.MAX_VALUE);
+        dp[0] = 0L;
+        for (int i = 0; i < target.length(); i++) {
+            if (dp[i] == Long.MAX_VALUE) {
+                continue;
+            }
+            if (target.charAt(i) == source.charAt(i)) {
+                dp[i + 1] = Math.min(dp[i + 1], dp[i]);
+            }
+            for (int t : set) {
+                if (i + t >= dp.length) {
+                    continue;
+                }
+                int c1 = index.getOrDefault(source.substring(i, i + t), -1);
+                int c2 = index.getOrDefault(target.substring(i, i + t), -1);
+                if (c1 >= 0 && c2 >= 0 && dis[c1][c2] < Long.MAX_VALUE) {
+                    dp[i + t] = Math.min(dp[i + t], dp[i] + dis[c1][c2]);
+                }
             }
         }
-
-        return f[n - 1];
+        return dp[dp.length - 1] == Long.MAX_VALUE ? -1L : dp[dp.length - 1];
     }
 }
