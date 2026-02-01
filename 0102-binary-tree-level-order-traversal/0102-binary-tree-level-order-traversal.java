@@ -17,6 +17,7 @@ class Solution {
     public void helper(TreeNode root, List<List<Integer>> list, int depth) {
         if (root == null)
             return;
+
         if (list.size() <= depth)
             list.add(new ArrayList<>());
 
