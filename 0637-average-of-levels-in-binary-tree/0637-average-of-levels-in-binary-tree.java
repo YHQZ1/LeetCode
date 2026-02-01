@@ -14,36 +14,26 @@
  * }
  */
 class Solution {
-    public void helper(TreeNode root, List<List<Double>> list, int depth) {
-        if (root == null)
-            return;
-
-        if (list.size() <= depth)
-            list.add(new ArrayList<>());
-
-        list.get(depth).add((double) root.val);
-
-        helper(root.left, list, depth + 1);
-        helper(root.right, list, depth + 1);
-    }
-
-    public List<Double> convert(List<List<Double>> list) {
+    public List<Double> averageOfLevels(TreeNode root) {
         List<Double> result = new ArrayList<>();
-        for (List<Double> inner : list) {
+        Queue<TreeNode> q = new LinkedList<>();
+        q.offer(root);
+
+        while (!q.isEmpty()) {
+            int size = q.size();
             double sum = 0;
-            int nodes = 0;
-            for (double x : inner) {
-                sum += x;
-                nodes++;
+
+            for (int i = 0; i < size; i++) {
+                TreeNode node = q.poll();
+                sum = sum + node.val;
+
+                if (node.left != null)
+                    q.offer(node.left);
+                if (node.right != null)
+                    q.offer(node.right);
             }
-            result.add(sum/nodes);
+            result.add(sum / size);
         }
         return result;
-    }
-
-    public List<Double> averageOfLevels(TreeNode root) {
-        List<List<Double>> list = new ArrayList<>();
-        helper(root, list, 0);
-        return convert(list);
     }
 }
