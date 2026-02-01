@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/YHQZ1/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/YHQZ1/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/YHQZ1/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YHQZ1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/YHQZ1/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/YHQZ1/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2447-merge-similar-items](https://github.com/YHQZ1/LeetCode/tree/master/2447-merge-similar-items) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YHQZ1/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YHQZ1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/YHQZ1/LeetCode/tree/master/3321-type-of-triangle) |
 | [3859-maximum-product-of-two-digits](https://github.com/YHQZ1/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Math
@@ -886,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/YHQZ1/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/YHQZ1/LeetCode/tree/master/1656-count-good-triplets) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/YHQZ1/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YHQZ1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/YHQZ1/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Queue
 |  |
