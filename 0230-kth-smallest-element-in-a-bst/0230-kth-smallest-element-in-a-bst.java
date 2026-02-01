@@ -17,15 +17,16 @@ class Solution {
     private int count = 0;
     private int result = -1;
 
-    private void inorder(TreeNode root, int k){
-        if(root == null || result != -1) return;
+    private void inorder(TreeNode root, int k) {
+        if (root == null || result != -1)
+            return;
 
         inorder(root.left, k);
 
         count++;
-        if(count == k){
+        if (count == k) {
             result = root.val;
-            return; 
+            return;
         }
 
         inorder(root.right, k);
