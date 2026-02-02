@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2976-minimum-cost-to-convert-string-i](https://github.com/YHQZ1/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/YHQZ1/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YHQZ1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/YHQZ1/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/YHQZ1/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/YHQZ1/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -692,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2634-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/YHQZ1/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/YHQZ1/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/YHQZ1/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/YHQZ1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/YHQZ1/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/YHQZ1/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -864,6 +866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/YHQZ1/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YHQZ1/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/YHQZ1/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/YHQZ1/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/YHQZ1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
@@ -1136,6 +1139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/YHQZ1/LeetCode/tree/master/0480-sliding-window-median) |
 | [0692-top-k-frequent-words](https://github.com/YHQZ1/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/YHQZ1/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YHQZ1/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/YHQZ1/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/YHQZ1/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
