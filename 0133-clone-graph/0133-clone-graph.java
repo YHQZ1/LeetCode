@@ -19,7 +19,6 @@ class Node {
 */
 
 class Solution {
-
     HashMap<Node, Node> map = new HashMap<>();
 
     public Node dfs(Node node) {
@@ -29,8 +28,8 @@ class Solution {
         Node copy = new Node(node.val);
         map.put(node, copy);
 
-        for (Node n : node.neighbors) {
-            copy.neighbors.add(dfs(n));
+        for (Node neighbour : node.neighbors) {
+            copy.neighbors.add(dfs(neighbour));
         }
         return copy;
     }
