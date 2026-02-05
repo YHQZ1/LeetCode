@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/YHQZ1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YHQZ1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/YHQZ1/LeetCode/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/YHQZ1/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YHQZ1/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YHQZ1/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -557,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/YHQZ1/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/YHQZ1/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/YHQZ1/LeetCode/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/YHQZ1/LeetCode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/YHQZ1/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/YHQZ1/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/YHQZ1/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -991,6 +993,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/YHQZ1/LeetCode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/YHQZ1/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1052,6 +1055,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/YHQZ1/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/YHQZ1/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/YHQZ1/LeetCode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/YHQZ1/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1196,12 +1200,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/YHQZ1/LeetCode/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/YHQZ1/LeetCode/tree/master/0399-evaluate-division) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/YHQZ1/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/YHQZ1/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/YHQZ1/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/YHQZ1/LeetCode/tree/master/0399-evaluate-division) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/YHQZ1/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/YHQZ1/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/YHQZ1/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1210,6 +1216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/YHQZ1/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/YHQZ1/LeetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/YHQZ1/LeetCode/tree/master/0399-evaluate-division) |
 ## Iterator
 |  |
 | ------- |
