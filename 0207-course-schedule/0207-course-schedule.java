@@ -1,42 +1,46 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
+        int[] prerequistNums = new int[numCourses];
 
-        int[][] adjacencyMatrix = new int[numCourses][numCourses];
-        int[] indegree = new int[numCourses];
-
+        List<List<Integer>> prerequisiteList = new ArrayList<>(numCourses);
+        for (int i = 0; i < numCourses; i++) {
+            prerequisiteList.add(new ArrayList<>());
+        }
         for (int i = 0; i < prerequisites.length; i++) {
-            int course = prerequisites[i][0];
-            int prerequisite = prerequisites[i][1];
+            int[] prerequisite = prerequisites[i];
 
-            if (adjacencyMatrix[prerequisite][course] == 0) {
-                indegree[course]++;
+            prerequistNums[prerequisite[0]]++;
+
+            List<Integer> preList = prerequisiteList.get(prerequisite[1]);
+            if (preList == null) {
+                preList = preList = new ArrayList<>();
             }
-            adjacencyMatrix[prerequisite][course] = 1;
+            preList.add(prerequisite[0]);
         }
 
-        Queue<Integer> queue = new LinkedList<>();
+        Queue<Integer> roots = new LinkedList<Integer>();
+        int countCompleted = 0;
+        for (int i = 0; i < numCourses; i++) {
 
-        for (int c = 0; c < numCourses; c++) {
-            if (indegree[c] == 0) {
-                queue.offer(c);
+            if (prerequistNums[i] == 0) {
+                roots.add(i);
+
             }
         }
 
-        int completedCourses = 0;
-
-        while (!queue.isEmpty()) {
-            int currentCourse = queue.poll();
-            completedCourses++;
-
-            for (int nextCourse = 0; nextCourse < numCourses; nextCourse++) {
-                if (adjacencyMatrix[currentCourse][nextCourse] == 1) {
-                    if (--indegree[nextCourse] == 0) {
-                        queue.offer(nextCourse);
-                    }
+        while (roots.size() > 0) {
+            Integer course = roots.poll();
+            countCompleted++;
+            List<Integer> preList = prerequisiteList.get(course);
+            preList.forEach(dependent -> {
+                prerequistNums[dependent]--;
+                if (prerequistNums[dependent] == 0) {
+                    roots.add(dependent);
                 }
-            }
+            });
         }
 
-        return completedCourses == numCourses;
+        return countCompleted == numCourses;
     }
+
 }
