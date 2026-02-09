@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/YHQZ1/LeetCode/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0881-boats-to-save-people](https://github.com/YHQZ1/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/YHQZ1/LeetCode/tree/master/0932-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/YHQZ1/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/YHQZ1/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/YHQZ1/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/YHQZ1/LeetCode/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/YHQZ1/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/YHQZ1/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/YHQZ1/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/YHQZ1/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/YHQZ1/LeetCode/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/YHQZ1/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/YHQZ1/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/YHQZ1/LeetCode/tree/master/1448-maximum-69-number) |
@@ -340,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/YHQZ1/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/YHQZ1/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/YHQZ1/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/YHQZ1/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/YHQZ1/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
