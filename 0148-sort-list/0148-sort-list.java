@@ -9,26 +9,7 @@
  * }
  */
 class Solution {
-    public ListNode sortList(ListNode head) {
-        if (head == null || head.next == null)
-            return head;
-
-        ListNode slow = head;
-        ListNode fast = head;
-        ListNode prev = null;
-
-        while (fast != null && fast.next != null) {
-            prev = slow;
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-
-        prev.next = null;
-        ListNode left = head, right = slow;
-
-        left = sortList(left);
-        right = sortList(right);
-
+    public ListNode merge(ListNode left, ListNode right) {
         ListNode dummy = new ListNode(0);
         ListNode tail = dummy;
 
@@ -43,11 +24,33 @@ class Solution {
             tail = tail.next;
         }
 
-        if (left != null) {
+        if (left != null)
             tail.next = left;
-        } else {
+        else
             tail.next = right;
-        }
+
         return dummy.next;
+    }
+
+    public ListNode sortList(ListNode head) {
+        if (head == null || head.next == null)
+            return head;
+
+        ListNode slow = head, fast = head, prev = null;
+
+        while (fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        prev.next = null;
+        ListNode left = head, right = slow;
+
+        left = sortList(left);
+        right = sortList(right);
+
+        ListNode merged = merge(left, right);
+        return merged;
     }
 }
