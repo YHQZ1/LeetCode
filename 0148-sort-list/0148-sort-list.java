@@ -50,7 +50,6 @@ class Solution {
         left = sortList(left);
         right = sortList(right);
 
-        ListNode merged = merge(left, right);
-        return merged;
+        return merge(left, right);
     }
 }
