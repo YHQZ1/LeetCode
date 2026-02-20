@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/YHQZ1/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/YHQZ1/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0761-special-binary-string](https://github.com/YHQZ1/LeetCode/tree/master/0761-special-binary-string) |
 | [0881-boats-to-save-people](https://github.com/YHQZ1/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/YHQZ1/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/YHQZ1/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -587,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/YHQZ1/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YHQZ1/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/YHQZ1/LeetCode/tree/master/0742-to-lower-case) |
+| [0761-special-binary-string](https://github.com/YHQZ1/LeetCode/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/YHQZ1/LeetCode/tree/master/0763-partition-labels) |
 | [1044-find-common-characters](https://github.com/YHQZ1/LeetCode/tree/master/1044-find-common-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/YHQZ1/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -867,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/YHQZ1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YHQZ1/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/YHQZ1/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/YHQZ1/LeetCode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/YHQZ1/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/YHQZ1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/YHQZ1/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
