@@ -7,3 +7,24 @@ class Solution {
         return !(nums.length == set.size());
     }
 }
+
+/*
+nums.length = 4 => 0, 1, 2, 3
+1, 2, 2, 2, 3 => (1, 2, 3)
+----------------
+1, 2, 3, 1
+set = ()
+(1)
+(1, 2)
+(1, 2, 3)
+(1, 2, 3) = 3
+nums[] = 4
+
+3 == 4 -> !false
+
+1==1 -> true
+1!=1 -> false
+
+!true = false
+!false = true
+*/
