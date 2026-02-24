@@ -1016,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/YHQZ1/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/YHQZ1/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/YHQZ1/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1052,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/YHQZ1/LeetCode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/YHQZ1/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/YHQZ1/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0801-is-graph-bipartite](https://github.com/YHQZ1/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -1090,6 +1092,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/YHQZ1/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/YHQZ1/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/YHQZ1/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1121,6 +1124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/YHQZ1/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/YHQZ1/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/YHQZ1/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0801-is-graph-bipartite](https://github.com/YHQZ1/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -1187,6 +1191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YHQZ1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/YHQZ1/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/YHQZ1/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/YHQZ1/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Interactive
