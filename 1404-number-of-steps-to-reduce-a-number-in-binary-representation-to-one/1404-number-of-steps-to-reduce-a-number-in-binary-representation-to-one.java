@@ -1,21 +1,17 @@
-import java.math.BigInteger;
-
 class Solution {
     public int numSteps(String s) {
-        BigInteger num = new BigInteger(s, 2);
         int steps = 0;
+        int carry = 0;
 
-        BigInteger ONE = BigInteger.ONE;
-        BigInteger TWO = BigInteger.valueOf(2);
+        for (int i = s.length() - 1; i > 0; i--) {
+            int bit = s.charAt(i) - '0';
 
-        while (!num.equals(ONE)) {
-            if (num.mod(TWO).equals(BigInteger.ZERO)) {
-                num = num.divide(TWO);
-            } else {
-                num = num.add(ONE);
-            }
-            steps++;
+            if (bit + carry == 1) {
+                steps += 2;
+                carry = 1;
+            } else
+                steps += 1;
         }
-        return steps;
+        return steps + carry;
     }
 }
