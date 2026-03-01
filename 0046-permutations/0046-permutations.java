@@ -5,7 +5,7 @@ class Solution {
         nums[j] = temp;
     }
 
-    private void getPermutations(int[] nums, int index, List<List<Integer>> result) {
+    private void dfs(int[] nums, int index, List<List<Integer>> result) {
         if (index == nums.length) {
             List<Integer> perm = new ArrayList<>();
             for (int n : nums)
@@ -16,14 +16,14 @@ class Solution {
 
         for (int i = index; i < nums.length; i++) {
             swap(nums, i, index);
-            getPermutations(nums, index + 1, result);
+            dfs(nums, index + 1, result);
             swap(nums, i, index);
         }
     }
 
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
-        getPermutations(nums, 0, result);
+        dfs(nums, 0, result);
         return result;
     }
 }
