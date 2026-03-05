@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/YHQZ1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/YHQZ1/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/YHQZ1/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YHQZ1/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YHQZ1/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YHQZ1/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -644,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/YHQZ1/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/YHQZ1/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/YHQZ1/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/YHQZ1/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/YHQZ1/LeetCode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/YHQZ1/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -1204,6 +1206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/YHQZ1/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/YHQZ1/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/YHQZ1/LeetCode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/YHQZ1/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YHQZ1/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/YHQZ1/LeetCode/tree/master/0212-word-search-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/YHQZ1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
