@@ -1,33 +1,16 @@
 class Solution {
-    private String build(char start, int n) {
-        StringBuilder sb = new StringBuilder(n);
-        char curr = start;
-
-        for (int i = 0; i < n; i++) {
-            sb.append(curr);
-            curr ^= 1;
-        }
-
-        return sb.toString();
-    }
-
     public int minOperations(String s) {
-        int size = s.length();
+        int diff0 = 0, diff1 = 0;
 
-        String build1 = build('1', size);
-        String build0 = build('0', size);
+        for (int i = 0; i < s.length(); i++) {
+            char expected0 = (i % 2 == 0) ? '0' : '1';
+            char expected1 = (i % 2 == 0) ? '1' : '0';
 
-        int diff1 = 0, diff2 = 0;
-
-        for (int i = 0; i < size; i++) {
-            if (s.charAt(i) != build1.charAt(i))
+            if (s.charAt(i) != expected0)
+                diff0++;
+            if (s.charAt(i) != expected1)
                 diff1++;
         }
-
-        for (int i = 0; i < size; i++) {
-            if (s.charAt(i) != build0.charAt(i))
-                diff2++;
-        }
-        return Math.min(diff1, diff2);
+        return Math.min(diff0, diff1);
     }
 }
