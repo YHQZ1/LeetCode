@@ -623,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/YHQZ1/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/YHQZ1/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/YHQZ1/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/YHQZ1/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/YHQZ1/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1542-consecutive-characters](https://github.com/YHQZ1/LeetCode/tree/master/1542-consecutive-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/YHQZ1/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1235,6 +1236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/YHQZ1/LeetCode/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/YHQZ1/LeetCode/tree/master/0212-word-search-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/YHQZ1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/YHQZ1/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/YHQZ1/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Monotonic Stack
 |  |
