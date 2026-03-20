@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YHQZ1/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/YHQZ1/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/YHQZ1/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YHQZ1/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YHQZ1/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/YHQZ1/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3583-count-special-triplets](https://github.com/YHQZ1/LeetCode/tree/master/3583-count-special-triplets) |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YHQZ1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/YHQZ1/LeetCode/tree/master/3321-type-of-triangle) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YHQZ1/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/YHQZ1/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/YHQZ1/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Math
@@ -898,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-maximum-matrix-sum](https://github.com/YHQZ1/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/YHQZ1/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/YHQZ1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YHQZ1/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/YHQZ1/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Counting
 |  |
