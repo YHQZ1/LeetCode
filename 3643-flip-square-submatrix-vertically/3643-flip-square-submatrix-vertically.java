@@ -1,5 +1,5 @@
 class Solution {
-    private void reverse(int[][] grid, int x, int y, int k) {
+    public int[][] reverseSubmatrix(int[][] grid, int x, int y, int k) {
         int top = x;
         int bottom = x + k - 1;
 
@@ -12,10 +12,6 @@ class Solution {
             top++;
             bottom--;
         }
-    }
-
-    public int[][] reverseSubmatrix(int[][] grid, int x, int y, int k) {
-        reverse(grid, x, y, k);
         return grid;
     }
 }
