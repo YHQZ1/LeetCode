@@ -43,10 +43,10 @@ class Solution {
     }
 
     public boolean findRotation(int[][] mat, int[][] target) {
-        for (int i = 1; i <= 4; i++) {
-            rotate(mat);
+        for (int i = 0; i < 4; i++) {
             if (areEqual(mat, target))
                 return true;
+            rotate(mat);
         }
         return false;
     }
