@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/YHQZ1/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/YHQZ1/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/YHQZ1/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2906-construct-product-matrix](https://github.com/YHQZ1/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YHQZ1/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/YHQZ1/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -907,6 +908,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-largest-magic-square](https://github.com/YHQZ1/LeetCode/tree/master/1895-largest-magic-square) |
 | [1972-rotating-the-box](https://github.com/YHQZ1/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/YHQZ1/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2906-construct-product-matrix](https://github.com/YHQZ1/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/YHQZ1/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/YHQZ1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YHQZ1/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -966,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/YHQZ1/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/YHQZ1/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/YHQZ1/LeetCode/tree/master/1895-largest-magic-square) |
+| [2906-construct-product-matrix](https://github.com/YHQZ1/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/YHQZ1/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/YHQZ1/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/YHQZ1/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
