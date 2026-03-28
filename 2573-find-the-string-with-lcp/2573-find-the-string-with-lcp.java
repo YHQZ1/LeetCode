@@ -4,7 +4,6 @@ class Solution {
         char[] word = new char[n];
         char current = 'a';
 
-        // construct the string starting from 'a' to 'z' sequentially
         for (int i = 0; i < n; i++) {
             if (word[i] == 0) {
                 if (current > 'z') {
@@ -20,7 +19,6 @@ class Solution {
             }
         }
 
-        // verify if the constructed string meets the LCP matrix requirements
         for (int i = n - 1; i >= 0; i--) {
             for (int j = n - 1; j >= 0; j--) {
                 if (word[i] != word[j]) {
