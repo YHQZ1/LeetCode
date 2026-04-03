@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-flip-square-submatrix-vertically](https://github.com/YHQZ1/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/YHQZ1/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/YHQZ1/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/YHQZ1/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/YHQZ1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/YHQZ1/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/YHQZ1/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/YHQZ1/LeetCode/tree/master/3321-type-of-triangle) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YHQZ1/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/YHQZ1/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/YHQZ1/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3859-maximum-product-of-two-digits](https://github.com/YHQZ1/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -565,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/YHQZ1/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/YHQZ1/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/YHQZ1/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/YHQZ1/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Recursion
 |  |
 | ------- |
@@ -862,6 +865,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3453-separate-squares-i](https://github.com/YHQZ1/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/YHQZ1/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/YHQZ1/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/YHQZ1/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Database
 |  |
 | ------- |
