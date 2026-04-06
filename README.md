@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/YHQZ1/LeetCode/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/YHQZ1/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/YHQZ1/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0909-snakes-and-ladders](https://github.com/YHQZ1/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0932-monotonic-array](https://github.com/YHQZ1/LeetCode/tree/master/0932-monotonic-array) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/YHQZ1/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/YHQZ1/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/YHQZ1/LeetCode/tree/master/0682-baseball-game) |
+| [0874-walking-robot-simulation](https://github.com/YHQZ1/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/YHQZ1/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/YHQZ1/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/YHQZ1/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -792,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0840-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/YHQZ1/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0870-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/YHQZ1/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/YHQZ1/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/YHQZ1/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/YHQZ1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
