@@ -1,5 +1,4 @@
 class Robot {
-
     private boolean moved = false;
     private int idx = 0;
     private List<int[]> pos = new ArrayList<>();
