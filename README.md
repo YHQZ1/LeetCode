@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/YHQZ1/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/YHQZ1/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/YHQZ1/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/YHQZ1/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/YHQZ1/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YHQZ1/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/YHQZ1/LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -1347,6 +1348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/YHQZ1/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YHQZ1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1622-fancy-sequence](https://github.com/YHQZ1/LeetCode/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/YHQZ1/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
