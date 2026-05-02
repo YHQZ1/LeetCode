@@ -474,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/YHQZ1/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/YHQZ1/LeetCode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/YHQZ1/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/1013-fibonacci-number) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/YHQZ1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YHQZ1/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/YHQZ1/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/YHQZ1/LeetCode/tree/master/0799-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
