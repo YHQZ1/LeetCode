@@ -1,0 +1,27 @@
+class Solution {
+    private boolean isGood(int num) {
+        boolean isDifferent = false;
+
+        while (num > 0) {
+            int digit = num % 10;
+
+            if (digit == 3 || digit == 4 || digit == 7)
+                return false;
+            if (digit == 5 || digit == 2 || digit == 6 || digit == 9)
+                isDifferent = true;
+
+            num = num / 10;
+        }
+        return isDifferent;
+    }
+
+    public int rotatedDigits(int n) {
+        int count = 0;
+
+        for (int i = 1; i <= n; i++) {
+            if (isGood(i))
+                count++;
+        }
+        return count;
+    }
+}
