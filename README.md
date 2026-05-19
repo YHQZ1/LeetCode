@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2447-merge-similar-items](https://github.com/YHQZ1/LeetCode/tree/master/2447-merge-similar-items) |
 | [2483-task-scheduler-ii](https://github.com/YHQZ1/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2486-most-frequent-even-element](https://github.com/YHQZ1/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/YHQZ1/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/YHQZ1/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YHQZ1/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/YHQZ1/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/YHQZ1/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/YHQZ1/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/YHQZ1/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YHQZ1/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -832,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2447-merge-similar-items](https://github.com/YHQZ1/LeetCode/tree/master/2447-merge-similar-items) |
 | [2483-task-scheduler-ii](https://github.com/YHQZ1/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2486-most-frequent-even-element](https://github.com/YHQZ1/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/YHQZ1/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/YHQZ1/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -883,6 +886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/YHQZ1/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/YHQZ1/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/YHQZ1/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YHQZ1/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
