@@ -9,29 +9,18 @@
  * }
  */
 class Solution {
-    public ListNode reverse(ListNode head){
-        ListNode rev = null;
-
-        while(head != null){
-            ListNode temp = new ListNode(head.val);
-
-            temp.next = rev;
-            rev = temp;
-
-            head = head.next;
-        }
-        return rev;
-    }
-
     public boolean isPalindrome(ListNode head) {
-        ListNode New = reverse(head);
-        while(head != null && New != null){
-            if(head.val != New.val){
-                return false;
-            }
-            head = head.next;
-            New = New.next;
+        if (head.next == null) return true;
+        StringBuilder sb = new StringBuilder();
+
+        ListNode temp = head;
+
+        while(temp != null){
+            sb.append(temp.val);
+            temp = temp.next;
         }
-        return head == null && New == null;
+        
+        String str = sb.toString();
+        return str.equals(new StringBuilder(str).reverse().toString());
     }
 }
