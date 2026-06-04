@@ -1,7 +1,7 @@
 class Solution {
     private int nextGreater(int num, int[] nums, int idx) {
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] > num && i > idx)
+        for (int i = idx + 1; i < nums.length; i++) {
+            if (nums[i] > num)
                 return nums[i];
         }
         return -1;
