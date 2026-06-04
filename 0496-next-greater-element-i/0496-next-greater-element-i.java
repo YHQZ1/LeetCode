@@ -8,7 +8,7 @@ class Solution {
     }
 
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        List<Integer> list = new ArrayList<>();
+        int[] arr = new int[nums1.length];
         HashMap<Integer, Integer> map = new HashMap<>();
 
         for (int i = 0; i < nums2.length; i++) {
@@ -19,8 +19,8 @@ class Solution {
         }
 
         for (int i = 0; i < nums1.length; i++) {
-            list.add(map.get(nums1[i]));
+            arr[i] = map.get(nums1[i]);
         }
-        return list.stream().mapToInt(Integer::intValue).toArray();
+        return arr;
     }
 }
