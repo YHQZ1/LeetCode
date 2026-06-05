@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/YHQZ1/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/YHQZ1/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2354-number-of-excellent-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2354-number-of-excellent-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/YHQZ1/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/YHQZ1/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2447-merge-similar-items](https://github.com/YHQZ1/LeetCode/tree/master/2447-merge-similar-items) |
@@ -760,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/YHQZ1/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/YHQZ1/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2354-number-of-excellent-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2354-number-of-excellent-pairs) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/YHQZ1/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/YHQZ1/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/YHQZ1/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -845,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/YHQZ1/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YHQZ1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2354-number-of-excellent-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2354-number-of-excellent-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/YHQZ1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2447-merge-similar-items](https://github.com/YHQZ1/LeetCode/tree/master/2447-merge-similar-items) |
 | [2483-task-scheduler-ii](https://github.com/YHQZ1/LeetCode/tree/master/2483-task-scheduler-ii) |
@@ -901,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/YHQZ1/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/YHQZ1/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YHQZ1/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2354-number-of-excellent-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2354-number-of-excellent-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/YHQZ1/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/YHQZ1/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
