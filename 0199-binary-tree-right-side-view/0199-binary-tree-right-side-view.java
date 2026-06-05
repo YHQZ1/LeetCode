@@ -14,12 +14,11 @@
  * }
  */
 class Solution {
-    public void helper(TreeNode root, List<Integer> list, int depth) {
+    private void helper(TreeNode root, List<Integer> list, int depth) {
         if (root == null)
             return;
         if (depth == list.size())
             list.add(root.val);
-
         helper(root.right, list, depth + 1);
         helper(root.left, list, depth + 1);
     }
