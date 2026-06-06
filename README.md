@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3582-find-indices-of-stable-mountains](https://github.com/YHQZ1/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3583-count-special-triplets](https://github.com/YHQZ1/LeetCode/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/YHQZ1/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/YHQZ1/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/YHQZ1/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/YHQZ1/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/YHQZ1/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -988,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/YHQZ1/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/YHQZ1/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YHQZ1/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/YHQZ1/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/YHQZ1/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/YHQZ1/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Counting
@@ -1240,6 +1242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1382-balance-a-binary-search-tree](https://github.com/YHQZ1/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/YHQZ1/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/YHQZ1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/YHQZ1/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1313,6 +1316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/YHQZ1/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/YHQZ1/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/YHQZ1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/YHQZ1/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
@@ -1495,6 +1499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/YHQZ1/LeetCode/tree/master/0399-evaluate-division) |
 | [2573-find-the-string-with-lcp](https://github.com/YHQZ1/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/YHQZ1/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/YHQZ1/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Iterator
 |  |
 | ------- |
