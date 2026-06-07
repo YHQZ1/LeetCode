@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/YHQZ1/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/YHQZ1/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/YHQZ1/LeetCode/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/YHQZ1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/YHQZ1/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/YHQZ1/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/YHQZ1/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/YHQZ1/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YHQZ1/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/YHQZ1/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/YHQZ1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/YHQZ1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/YHQZ1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/YHQZ1/LeetCode/tree/master/0120-triangle) |
@@ -955,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/YHQZ1/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/YHQZ1/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/YHQZ1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/YHQZ1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/YHQZ1/LeetCode/tree/master/0079-word-search) |
