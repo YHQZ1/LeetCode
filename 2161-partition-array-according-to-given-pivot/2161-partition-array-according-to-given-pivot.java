@@ -17,7 +17,7 @@ class Solution {
             if (nums[i] > pivot)
                 res[j++] = nums[i];
         }
-
+        
         return res;
     }
 }
