@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YHQZ1/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/YHQZ1/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/YHQZ1/LeetCode/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/YHQZ1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YHQZ1/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/YHQZ1/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YHQZ1/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -683,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/YHQZ1/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/YHQZ1/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/YHQZ1/LeetCode/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/YHQZ1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/YHQZ1/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/YHQZ1/LeetCode/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/YHQZ1/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -1117,6 +1119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/YHQZ1/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/YHQZ1/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/YHQZ1/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/YHQZ1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/YHQZ1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YHQZ1/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/YHQZ1/LeetCode/tree/master/0682-baseball-game) |
@@ -1382,6 +1385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YHQZ1/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/YHQZ1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/YHQZ1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YHQZ1/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/YHQZ1/LeetCode/tree/master/0739-daily-temperatures) |
