@@ -1,15 +1,10 @@
 class Solution {
     public double angleClock(int hour, int minutes) {
-        if (hour == 12)
-            hour = 0;
-            
-        double m = (double) minutes / 60;
-        double h = (double) hour + m;
+        double hourAngle = (hour % 12) * 30 + minutes * 0.5;
+        double minuteAngle = minutes * 6;
 
-        double mins = (double) minutes / 5;
+        double diff = Math.abs(hourAngle - minuteAngle);
 
-        double res = Math.abs(mins - h);
-
-        return 30 * Math.min(res, 12 - res);
+        return Math.min(diff, 360 - diff);
     }
 }
