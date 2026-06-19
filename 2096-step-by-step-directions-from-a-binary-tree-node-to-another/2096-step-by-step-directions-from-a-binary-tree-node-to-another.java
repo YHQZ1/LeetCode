@@ -40,17 +40,15 @@ class Solution {
         dfs(root, s1, startValue);
         dfs(root, s2, destValue);
 
-        int i = 0, j = 0;
+        int i = 0;
+        while (i < s1.length() && i < s2.length() && s1.charAt(i) == s2.charAt(i))
+            i++;
 
-        while (i < s1.length() && j < s2.length() && s1.charAt(i) == s2.charAt(j)) {
-            s1.deleteCharAt(i);
-            s2.deleteCharAt(j);
-        }
+        StringBuilder result = new StringBuilder();
+        for (int k = i; k < s1.length(); k++)
+            result.append('U');
+        result.append(s2, i, s2.length());
 
-        for (i = 0; i < s1.length(); i++) {
-            s1.setCharAt(i, 'U');
-        }
-
-        return s1.toString() + s2.toString();
+        return result.toString();
     }
 }
