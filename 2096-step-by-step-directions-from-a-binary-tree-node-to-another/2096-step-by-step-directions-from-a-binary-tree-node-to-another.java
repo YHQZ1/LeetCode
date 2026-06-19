@@ -14,47 +14,43 @@
  * }
  */
 class Solution {
-    private boolean dfs(TreeNode root, int target, StringBuilder path) {
-        if (root == null) {
+    private boolean dfs(TreeNode root, StringBuilder sb, int value) {
+        if (root == null)
             return false;
-        }
-
-        if (root.val == target) {
+        if (root.val == value)
             return true;
-        }
 
-        path.append('L');
-        if (dfs(root.left, target, path)) {
+        sb.append('L');
+        if (dfs(root.left, sb, value))
             return true;
-        }
-        path.deleteCharAt(path.length() - 1);
+        sb.deleteCharAt(sb.length() - 1);
 
-        path.append('R');
-        if (dfs(root.right, target, path)) {
+        sb.append('R');
+        if (dfs(root.right, sb, value))
             return true;
-        }
-        path.deleteCharAt(path.length() - 1);
+        sb.deleteCharAt(sb.length() - 1);
 
         return false;
     }
 
     public String getDirections(TreeNode root, int startValue, int destValue) {
-        StringBuilder sb1 = new StringBuilder();
-        StringBuilder sb2 = new StringBuilder();
-        dfs(root, startValue, sb1);
-        dfs(root, destValue, sb2);
+        StringBuilder s1 = new StringBuilder();
+        StringBuilder s2 = new StringBuilder();
+
+        dfs(root, s1, startValue);
+        dfs(root, s2, destValue);
 
         int i = 0, j = 0;
 
-        while (i < sb1.length() && j < sb2.length() && sb1.charAt(i) == sb2.charAt(j)) {
-            sb1.deleteCharAt(i);
-            sb2.deleteCharAt(j);
+        while (i < s1.length() && j < s2.length() && s1.charAt(i) == s2.charAt(j)) {
+            s1.deleteCharAt(i);
+            s2.deleteCharAt(j);
         }
 
-        for (i = 0; i < sb1.length(); i++) {
-            sb1.setCharAt(i, 'U');
+        for (i = 0; i < s1.length(); i++) {
+            s1.setCharAt(i, 'U');
         }
 
-        return sb1.toString() + sb2.toString();
+        return s1.toString() + s2.toString();
     }
 }
