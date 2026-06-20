@@ -10,25 +10,20 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        List<Integer> list = new ArrayList<>();
-
-        ListNode temp = head;
-
-        while (temp != null) {
-            list.add(temp.val);
-            temp = temp.next;
-        }
-
-        for (int i = 0; i < list.size() - 1; i += 2) {
-            Collections.swap(list, i, i + 1);
-        }
-
         ListNode dummy = new ListNode(0);
-        ListNode curr = dummy;
+        dummy.next = head;
 
-        for (int num : list) {
-            curr.next = new ListNode(num);
-            curr = curr.next;
+        ListNode temp = dummy;
+
+        while (temp.next != null && temp.next.next != null) {
+            ListNode first = temp.next;
+            ListNode second = first.next;
+
+            temp.next = second;
+            first.next = second.next;
+            second.next = first;
+
+            temp = first;
         }
 
         return dummy.next;
