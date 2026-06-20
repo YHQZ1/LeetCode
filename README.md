@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/YHQZ1/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YHQZ1/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/YHQZ1/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YHQZ1/LeetCode/tree/master/0035-search-insert-position) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YHQZ1/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YHQZ1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/YHQZ1/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/YHQZ1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/YHQZ1/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/YHQZ1/LeetCode/tree/master/0075-sort-colors) |
