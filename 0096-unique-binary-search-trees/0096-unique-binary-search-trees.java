@@ -15,7 +15,6 @@ class Solution {
             }
             dp[i] = total;
         }
-
         return dp[n];
     }
 }
