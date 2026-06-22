@@ -742,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2211-count-collisions-on-a-road](https://github.com/YHQZ1/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YHQZ1/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/YHQZ1/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/YHQZ1/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/YHQZ1/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/YHQZ1/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2573-find-the-string-with-lcp](https://github.com/YHQZ1/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -878,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-sum-of-unique-elements](https://github.com/YHQZ1/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/YHQZ1/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YHQZ1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/YHQZ1/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2354-number-of-excellent-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2354-number-of-excellent-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/YHQZ1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1038,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/YHQZ1/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/YHQZ1/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/YHQZ1/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/YHQZ1/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2486-most-frequent-even-element](https://github.com/YHQZ1/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/YHQZ1/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
