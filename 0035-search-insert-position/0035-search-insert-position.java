@@ -3,9 +3,9 @@ class Solution {
         int i = 0;
 
         while (i < nums.length) {
-            if (target == nums[i])
+            if (nums[i] == target)
                 return i;
-            else if (target < nums[i])
+            if (nums[i] > target)
                 return i;
             i++;
         }
