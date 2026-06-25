@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/YHQZ1/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/YHQZ1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/YHQZ1/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YHQZ1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/YHQZ1/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/YHQZ1/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -919,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3714-longest-balanced-substring-ii](https://github.com/YHQZ1/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/YHQZ1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/YHQZ1/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YHQZ1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/YHQZ1/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/YHQZ1/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/YHQZ1/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1068,6 +1070,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/YHQZ1/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/YHQZ1/LeetCode/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/YHQZ1/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YHQZ1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/YHQZ1/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -1090,6 +1093,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/YHQZ1/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/YHQZ1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/YHQZ1/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YHQZ1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1122,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3714-longest-balanced-substring-ii](https://github.com/YHQZ1/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/YHQZ1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/YHQZ1/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YHQZ1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -1507,6 +1512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YHQZ1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/YHQZ1/LeetCode/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YHQZ1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -1534,6 +1540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3454-separate-squares-ii](https://github.com/YHQZ1/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/YHQZ1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/YHQZ1/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YHQZ1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Line Sweep
 |  |
 | ------- |
