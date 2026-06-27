@@ -13,7 +13,6 @@ class Solution {
                 int length = map.get(num);
                 if (length % 2 == 0)
                     length--;
-
                 res = Math.max(res, length);
                 continue;
             }
@@ -22,9 +21,10 @@ class Solution {
             int chain = 0;
 
             while (map.containsKey(curr)) {
-                if (map.get(curr) >= 2 && map.containsKey(curr * curr)) {
+                long squared = curr * curr;
+                if (map.get(curr) >= 2 && map.containsKey(squared)) {
                     chain += 2;
-                    curr = curr * curr;
+                    curr = squared;
                 } else {
                     chain += 1;
                     break;
