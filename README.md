@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/YHQZ1/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/YHQZ1/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/YHQZ1/LeetCode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/YHQZ1/LeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YHQZ1/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/YHQZ1/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -735,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/YHQZ1/LeetCode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/YHQZ1/LeetCode/tree/master/0551-student-attendance-record-i) |
+| [0567-permutation-in-string](https://github.com/YHQZ1/LeetCode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/YHQZ1/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/YHQZ1/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/YHQZ1/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -887,6 +889,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/YHQZ1/LeetCode/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/YHQZ1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/YHQZ1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/YHQZ1/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YHQZ1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/YHQZ1/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/YHQZ1/LeetCode/tree/master/0763-partition-labels) |
@@ -1180,6 +1183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/YHQZ1/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YHQZ1/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/YHQZ1/LeetCode/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/YHQZ1/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/YHQZ1/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/YHQZ1/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/YHQZ1/LeetCode/tree/master/0713-subarray-product-less-than-k) |
