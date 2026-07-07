@@ -17,7 +17,7 @@ class Solution {
 
         long rev = 0;
 
-        while(num > 0){
+        while (num > 0) {
             long rem = num % 10;
             rev = rev * 10 + rem;
             num = num / 10;
