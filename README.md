@@ -602,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3676-smallest-number-with-all-set-bits](https://github.com/YHQZ1/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/YHQZ1/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/YHQZ1/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/YHQZ1/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/YHQZ1/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/YHQZ1/LeetCode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/YHQZ1/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
@@ -801,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3617-find-the-original-typed-string-i](https://github.com/YHQZ1/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/YHQZ1/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/YHQZ1/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/YHQZ1/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/YHQZ1/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/YHQZ1/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -1176,6 +1178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3721-longest-balanced-subarray-ii](https://github.com/YHQZ1/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/YHQZ1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/YHQZ1/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/YHQZ1/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
 |  |
 | ------- |
