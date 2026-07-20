@@ -1,26 +1,28 @@
 class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
-        List<Integer> list = new ArrayList<>();
+        int m = grid.length;
+        int n = grid[0].length;
+
         List<List<Integer>> res = new ArrayList<>();
-        for (int i = 0; i < grid.length; i++) {
-            for (int j = 0; j < grid[0].length; j++) {
-                list.add(grid[i][j]);
+
+        for (int i = 0; i < m; i++) {
+            res.add(new ArrayList<>());
+            for (int j = 0; j < n; j++) {
+                res.get(i).add(0);
             }
         }
 
-        k = k % list.size();
+        int total = m * n;
+        k %= total;
 
-        Collections.reverse(list);
-        Collections.reverse(list.subList(0, k));
-        Collections.reverse(list.subList(k, list.size()));
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                int oldIndex = i * n + j;
+                int newIndex = (oldIndex + k) % total;
+                int newRow = newIndex / n;
+                int newCol = newIndex % n;
 
-        int r = 0;
-
-        for (int i = 0; i < grid.length; i++) {
-            res.add(new ArrayList<>());
-            for (int j = 0; j < grid[0].length; j++) {
-                res.get(i).add(list.get(r));
-                r++;
+                res.get(newRow).set(newCol, grid[i][j]);
             }
         }
 
