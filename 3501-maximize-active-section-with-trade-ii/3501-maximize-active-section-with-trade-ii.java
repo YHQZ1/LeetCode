@@ -1,5 +1,4 @@
 class SegmentTree {
-
     private int n;
     private int[] arr;
     private int[] seg;
@@ -50,7 +49,6 @@ class SegmentTree {
 }
 
 class Solution {
-
     public List<Integer> maxActiveSectionsAfterTrade(
         String s,
         int[][] queries
@@ -82,7 +80,6 @@ class Solution {
 
         int m = zeroBlocks.size();
         if (m < 2) {
-            // continuous 0 blocks less than 2 segments, return the answer directly
             List<Integer> result = new ArrayList<>();
             for (int q = 0; q < queries.length; q++) {
                 result.add(cnt1);
@@ -103,16 +100,14 @@ class Solution {
             int idx = lowerBound(blockRight, l);
             int jdx = upperBound(blockLeft, r) - 1;
 
-            // at most 1 continuous block of 0s within the substring
             if (idx > m - 1 || jdx < 0 || idx >= jdx) {
                 ans.add(cnt1);
                 continue;
             }
             int firstLen =
-                blockRight.get(idx) - Math.max(blockLeft.get(idx), l) + 1; // actual length of the first consecutive block of 0s in the substring
+                blockRight.get(idx) - Math.max(blockLeft.get(idx), l) + 1;
             int lastLen =
-                Math.min(blockRight.get(jdx), r) - blockLeft.get(jdx) + 1; // actual length of the last consecutive block of 0s in the substring
-            // exactly 2 consecutive 0 blocks within the substring
+                Math.min(blockRight.get(jdx), r) - blockLeft.get(jdx) + 1;
             if (idx + 1 == jdx) {
                 int bestGain = firstLen + lastLen;
                 ans.add(cnt1 + bestGain);
