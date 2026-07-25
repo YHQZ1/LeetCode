@@ -1,17 +1,18 @@
 class Solution {
     public int maxProduct(int n) {
-        int size = (int) Math.log10(n) + 1;
-        int[] arr = new int[size];
-        for(int i=0; i<arr.length; i++){
-            int rem = n%10;
-            arr[i] = rem;
-            n=n/10;
+        int max1 = -1, max2 = -1;
+
+        while (n > 0) {
+            int rem = n % 10;
+            if (rem >= max1) {
+                max2 = max1;
+                max1 = rem;
+            } else if (rem >= max2 && rem < max1) {
+                max2 = rem;
+            }
+
+            n /= 10;
         }
-
-        Arrays.sort(arr);
-
-        int max = arr[arr.length-1]*arr[arr.length-2];
-
-        return max;
+        return max1 * max2;
     }
 }
