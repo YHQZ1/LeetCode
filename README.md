@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0454-4sum-ii](https://github.com/YHQZ1/LeetCode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/YHQZ1/LeetCode/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/YHQZ1/LeetCode/tree/master/0480-sliding-window-median) |
+| [0486-predict-the-winner](https://github.com/YHQZ1/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/YHQZ1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YHQZ1/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YHQZ1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/YHQZ1/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/YHQZ1/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/YHQZ1/LeetCode/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/YHQZ1/LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/YHQZ1/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -658,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/YHQZ1/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/YHQZ1/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/YHQZ1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/YHQZ1/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YHQZ1/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -703,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/YHQZ1/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/YHQZ1/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YHQZ1/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/YHQZ1/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/YHQZ1/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1715,4 +1719,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/YHQZ1/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/YHQZ1/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
