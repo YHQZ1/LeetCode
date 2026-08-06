@@ -616,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/YHQZ1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/YHQZ1/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/YHQZ1/LeetCode/tree/master/3321-type-of-triangle) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/YHQZ1/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3371-harshad-number](https://github.com/YHQZ1/LeetCode/tree/master/3371-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/YHQZ1/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1295,6 +1296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/YHQZ1/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YHQZ1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/YHQZ1/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/YHQZ1/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/YHQZ1/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/YHQZ1/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/YHQZ1/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
