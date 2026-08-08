@@ -1736,4 +1736,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/YHQZ1/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/YHQZ1/LeetCode/tree/master/0877-stone-game) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/YHQZ1/LeetCode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/YHQZ1/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
