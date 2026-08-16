@@ -1,27 +1,19 @@
 class Solution {
-    private int[] arr;
+    private HashMap<Integer, ArrayList<Integer>> map;
     private Random random;
 
     public Solution(int[] nums) {
-        arr = nums;
+        map = new HashMap<>();
         random = new Random();
-    }
-    
-    public int pick(int target) {
-        int answer = -1;
-        int count = 0;
 
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == target) {
-                count++;
-
-                if (random.nextInt(count) == 0) {
-                    answer = i;
-                }
-            }
+        for (int i = 0; i < nums.length; i++) {
+            map.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
         }
+    }
 
-        return answer;
+    public int pick(int target) {
+        ArrayList<Integer> indices = map.get(target);
+        return indices.get(random.nextInt(indices.size()));
     }
 }
 
