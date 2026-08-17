@@ -12,6 +12,7 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
+                
                 dp[i][j] = 2;
 
                 int prev = arr[j] - arr[i];
@@ -23,6 +24,6 @@ class Solution {
                 }
             }
         }
-        return res >= 3 ? res : 0;
+        return res;
     }
 }
