@@ -573,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/YHQZ1/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/YHQZ1/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/YHQZ1/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/YHQZ1/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/YHQZ1/LeetCode/tree/master/0788-rotated-digits) |
@@ -683,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/YHQZ1/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
+| [0650-2-keys-keyboard](https://github.com/YHQZ1/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YHQZ1/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/YHQZ1/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/YHQZ1/LeetCode/tree/master/0799-champagne-tower) |
