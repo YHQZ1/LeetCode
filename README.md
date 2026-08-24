@@ -565,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/YHQZ1/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/YHQZ1/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YHQZ1/LeetCode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/YHQZ1/LeetCode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/YHQZ1/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/YHQZ1/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YHQZ1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -684,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/YHQZ1/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/YHQZ1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/YHQZ1/LeetCode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/YHQZ1/LeetCode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/YHQZ1/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/YHQZ1/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/YHQZ1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
