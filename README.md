@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/YHQZ1/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/YHQZ1/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/YHQZ1/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/YHQZ1/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/YHQZ1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/YHQZ1/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/YHQZ1/LeetCode/tree/master/0068-text-justification) |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/YHQZ1/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/YHQZ1/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/YHQZ1/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/YHQZ1/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/YHQZ1/LeetCode/tree/master/0258-add-digits) |
@@ -1142,6 +1144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/YHQZ1/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/YHQZ1/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/YHQZ1/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/YHQZ1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/YHQZ1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/YHQZ1/LeetCode/tree/master/0074-search-a-2d-matrix) |
