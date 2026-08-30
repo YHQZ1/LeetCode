@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/YHQZ1/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/YHQZ1/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/YHQZ1/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/YHQZ1/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YHQZ1/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/YHQZ1/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YHQZ1/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/YHQZ1/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/YHQZ1/LeetCode/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/YHQZ1/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/YHQZ1/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2573-find-the-string-with-lcp](https://github.com/YHQZ1/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/YHQZ1/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/YHQZ1/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
