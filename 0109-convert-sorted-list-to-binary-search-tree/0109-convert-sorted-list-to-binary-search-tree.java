@@ -24,30 +24,30 @@
  * }
  */
 class Solution {
-    private TreeNode insert(List<Integer> list, int left, int right) {
-        if (left > right)
-            return null;
-        int mid = left + (right - left) / 2;
-        TreeNode newNode = new TreeNode(list.get(mid));
-
-        newNode.left = insert(list, left, mid - 1);
-        newNode.right = insert(list, mid + 1, right);
-
-        return newNode;
-    }
-
     public TreeNode sortedListToBST(ListNode head) {
         if (head == null)
             return null;
 
-        List<Integer> list = new ArrayList<>();
-        ListNode temp = head;
+        if (head.next == null)
+            return new TreeNode(head.val);
 
-        while (temp != null) {
-            list.add(temp.val);
-            temp = temp.next;
+        ListNode prev = null;
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        return insert(list, 0, list.size() - 1);
+        prev.next = null;
+
+        TreeNode root = new TreeNode(slow.val);
+
+        root.left = sortedListToBST(head);
+        root.right = sortedListToBST(slow.next);
+
+        return root;
     }
 }
