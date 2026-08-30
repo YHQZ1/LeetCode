@@ -14,18 +14,19 @@
  * }
  */
 class Solution {
-    public TreeNode insert(int[] arr, int left, int right){
-        if(left > right) return null;
-        int mid = left + (right-left)/2;
+    public TreeNode insert(int[] arr, int left, int right) {
+        if (left > right)
+            return null;
+        int mid = left + (right - left) / 2;
         TreeNode newNode = new TreeNode(arr[mid]);
 
-        newNode.left = insert(arr, left, mid-1);
-        newNode.right = insert(arr, mid+1, right);
+        newNode.left = insert(arr, left, mid - 1);
+        newNode.right = insert(arr, mid + 1, right);
 
         return newNode;
     }
 
     public TreeNode sortedArrayToBST(int[] nums) {
-        return insert(nums, 0, nums.length-1);
+        return insert(nums, 0, nums.length - 1);
     }
 }
