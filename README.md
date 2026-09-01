@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/YHQZ1/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YHQZ1/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2634-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/YHQZ1/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/YHQZ1/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/YHQZ1/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2751-robot-collisions](https://github.com/YHQZ1/LeetCode/tree/master/2751-robot-collisions) |
@@ -918,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/YHQZ1/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2354-number-of-excellent-pairs](https://github.com/YHQZ1/LeetCode/tree/master/2354-number-of-excellent-pairs) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/YHQZ1/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/YHQZ1/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/YHQZ1/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/YHQZ1/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -1028,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/YHQZ1/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/YHQZ1/LeetCode/tree/master/2634-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/YHQZ1/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/YHQZ1/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/YHQZ1/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/YHQZ1/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
