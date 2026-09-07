@@ -712,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-champagne-tower](https://github.com/YHQZ1/LeetCode/tree/master/0799-champagne-tower) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/YHQZ1/LeetCode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/YHQZ1/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/YHQZ1/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YHQZ1/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/YHQZ1/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -837,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-special-binary-string](https://github.com/YHQZ1/LeetCode/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/YHQZ1/LeetCode/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/YHQZ1/LeetCode/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/YHQZ1/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/YHQZ1/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1044-find-common-characters](https://github.com/YHQZ1/LeetCode/tree/master/1044-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YHQZ1/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
