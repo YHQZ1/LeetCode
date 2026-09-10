@@ -14,41 +14,28 @@
  * }
  */
 class Solution {
-    private int count(TreeNode root) {
-        if (root == null)
-            return 0;
+    private int ans = 0;
 
-        return 1 + count(root.left) + count(root.right);
-    }
+    private int[] dfs(TreeNode root) {
+        if (root == null) {
+            return new int[] { 0, 0 };
+        }
 
-    private int sum(TreeNode root) {
-        if (root == null)
-            return 0;
+        int[] left = dfs(root.left);
+        int[] right = dfs(root.right);
 
-        return root.val + sum(root.left) + sum(root.right);
-    }
+        int sum = root.val + left[0] + right[0];
+        int nodes = 1 + left[1] + right[1];
 
-    private boolean helper(TreeNode root) {
-        int total = sum(root);
-        int nodes = count(root);
+        if (root.val == sum / nodes) {
+            ans++;
+        }
 
-        return root.val == Math.floor(total / nodes);
+        return new int[] { sum, nodes };
     }
 
     public int averageOfSubtree(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
-        
-        int count = 0;
-
-        if (helper(root)) {
-            count++;
-        }
-
-        count += averageOfSubtree(root.left);
-        count += averageOfSubtree(root.right);
-
-        return count;
+        dfs(root);
+        return ans;
     }
 }
