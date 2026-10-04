@@ -450,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/YHQZ1/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YHQZ1/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/YHQZ1/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/YHQZ1/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/YHQZ1/LeetCode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/YHQZ1/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/YHQZ1/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -720,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/YHQZ1/LeetCode/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/YHQZ1/LeetCode/tree/master/0514-freedom-trail) |
 | [0650-2-keys-keyboard](https://github.com/YHQZ1/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/YHQZ1/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YHQZ1/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/YHQZ1/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/YHQZ1/LeetCode/tree/master/0799-champagne-tower) |
@@ -846,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0551-student-attendance-record-i](https://github.com/YHQZ1/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/YHQZ1/LeetCode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/YHQZ1/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/YHQZ1/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/YHQZ1/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/YHQZ1/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YHQZ1/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1382,6 +1385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/YHQZ1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/YHQZ1/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YHQZ1/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/YHQZ1/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/YHQZ1/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/YHQZ1/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YHQZ1/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1887,5 +1891,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/YHQZ1/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
