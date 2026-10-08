@@ -862,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0916-word-subsets](https://github.com/YHQZ1/LeetCode/tree/master/0916-word-subsets) |
 | [0940-distinct-subsequences-ii](https://github.com/YHQZ1/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/YHQZ1/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1021-remove-outermost-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1044-find-common-characters](https://github.com/YHQZ1/LeetCode/tree/master/1044-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YHQZ1/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/YHQZ1/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -1391,6 +1392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/YHQZ1/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/YHQZ1/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YHQZ1/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/YHQZ1/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1900,5 +1902,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/YHQZ1/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YHQZ1/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
