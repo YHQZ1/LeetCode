@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3718-smallest-missing-multiple-of-k](https://github.com/YHQZ1/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/YHQZ1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/YHQZ1/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/YHQZ1/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/YHQZ1/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/YHQZ1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/YHQZ1/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YHQZ1/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/YHQZ1/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3689-maximum-total-subarray-value-i](https://github.com/YHQZ1/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/YHQZ1/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -553,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YHQZ1/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/YHQZ1/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/YHQZ1/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/YHQZ1/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/YHQZ1/LeetCode/tree/master/3731-find-missing-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/YHQZ1/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YHQZ1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
