@@ -4,8 +4,7 @@ class Solution {
         int[] sorted = new int[n];
 
         for (int i = 0; i < n; i++) {
-            if (nums[i] < 0)
-                nums[i] *= -1;
+            nums[i] = nums[i] * nums[i];
         }
 
         Arrays.sort(nums);
@@ -24,9 +23,9 @@ class Solution {
 
         for (int l = 0; l < n; l++) {
             if (l % 2 == 0)
-                sum += sorted[l] * sorted[l];
+                sum += sorted[l];
             else
-                sum -= sorted[l] * sorted[l];
+                sum -= sorted[l];
         }
         return sum;
     }
